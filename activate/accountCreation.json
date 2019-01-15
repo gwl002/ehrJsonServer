@@ -1,0 +1,39 @@
+{
+	"accountCreation": [
+	{
+		"userName": "ctm789000",
+		"password": "LongLongLongPass678",
+		"Repassword": "LongLongLongPass678",
+		"result" : {
+		    "resultCode": "10000",
+		    "resultDesc": "Creation success"
+	  }
+	},
+	{
+		"userName": "ctm123456",
+		"password": "LongLongLongPass678",
+		"Repassword": "LongLongLongPass678",
+		"result" : {
+		    "resultCode": "-10",
+		    "resultDesc": "Creation failure - user name has been used"
+	  }
+	},
+	{
+		"userName": "ctm789",
+		"password": "abc123",
+		"Repassword": "abc123",
+		"result" : {
+		    "resultCode": "-20",
+		    "resultDesc": "Creation failure - passwod too weak"
+	  }
+	},
+	{
+		"userName": "ctm789",
+		"password": "abc123",
+		"Repassword": "abc456",
+		"result" : {
+		    "resultCode": "-30",
+		    "resultDesc": "Creation failure - incorrect passwod"
+	  }
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	"otp": [
+	{
+		"passcode": "123456",
+		"result" : {
+		    "resultCode": "10000",
+		    "resultDesc": "Success"
+	  }
+	},
+	{
+		"passcode": "00000000",
+		"result" : {
+		    "resultCode": "-10",
+		    "resultDesc": "Invalid passcode"
+		}
+	}]
+}

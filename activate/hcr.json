@@ -1,0 +1,98 @@
+{
+	"hcr": [
+	{
+	  "hkid": "A1234567",
+	  "documentNo": "",
+		"engSurname": "SUN",
+		"engGivenName": "BERRY",
+		"chineseName": "孫漿果",
+		"birthDate": "1990-05-23",
+		"birthMonthFlag": "Y",
+		"birthDayFlag": "Y",
+		"sex": "M",
+		"mobilePhoneNo": "97040021",
+		"email": "ptk744@serverdev.ehr.gov.hk",
+		"communicationMeans": "SMS",
+		"communicationLang": "E",
+		"result" : {
+		    "resultCode": "10000",
+		    "resultDesc": "Valid HCR"
+		}
+	},
+	{
+	  "hkid": "A1234567",
+	  "documentNo": "",
+		"engSurname": "CHAN",
+		"engGivenName": "TAI MAN",
+		"chineseName": "",
+		"birthDate": "1995-05-03",
+		"birthMonthFlag": "Y",
+		"birthDayFlag": "Y",
+		"sex": "M",
+		"mobilePhoneNo": "",
+		"email": "",
+		"communicationMeans": "",
+		"communicationLang": "",
+		"result" : {
+		    "resultCode": "-10",
+		    "resultDesc": "Invalid HCR"
+		}
+	},
+	{
+	  "hkid": "A2345678",
+	  "documentNo": "",
+    "engSurname": "PARTICIPANT23",
+    "engGivenName": "ACKEE",
+    "chineseName": "病人西非荔枝果",
+    "birthDate": "2001",
+    "birthMonthFlag": "N",
+		"birthDayFlag": "N",
+    "sex": "M",
+    "mobilePhoneNo": "97040002",
+    "email": "yws199@serverdev.ehr.gov.hk",
+    "communicationMeans": "EM",
+    "communicationLang": "C",
+		"result" : {
+		    "resultCode": "10000",
+		    "resultDesc": "Valid HCR"
+		}
+  },
+  {
+    "hkid": "A3456789",
+	  "documentNo": "",
+    "engSurname": "LEUNG",
+    "engGivenName": "BLACKBERRIES",
+    "chineseName": "梁黑莓",
+    "birthDate": "1960-08",
+    "birthMonthFlag": "Y",
+		"birthDayFlag": "N",
+    "sex": "F",
+    "mobilePhoneNo": "97040002",
+    "email": "yws199@serverdev.ehr.gov.hk",
+    "communicationMeans": "SMS",
+    "communicationLang": "E",
+		"result" : {
+		    "resultCode": "10000",
+		    "resultDesc": "Valid HCR"
+		}
+  },
+  {   
+    "hkid": "",
+	  "documentNo": "DOC987654321",
+    "engSurname": "WONG",
+    "engGivenName": "APPLE",
+    "chineseName": "黃蘋果",
+    "birthDate": "1995-05-05",
+    "birthMonthFlag": "Y",
+		"birthDayFlag": "Y",
+    "sex": "M",
+    "mobilePhoneNo": "97040034",
+    "email": "wck644@serverdev.ehr.gov.hk",
+    "communicationMeans": "SMS",
+    "communicationLang": "C",
+		"result" : {
+		    "resultCode": "10000",
+		    "resultDesc": "Valid HCR"
+		}
+  }]
+}

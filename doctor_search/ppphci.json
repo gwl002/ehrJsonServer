@@ -1,0 +1,29 @@
+{
+	"ppphci": [
+		{
+			"prog": "radi",
+			"hcpId": 1000000001,
+			"hciId": 1234567890,
+			"hciNameEng": "TAI MAN HOSPITAL",
+			"hciNameChiT": "大文醫院",
+			"hciNameChiS": "大文医院",
+			"serviceCtInd": "0",
+			"serviceMriInd": "1",
+			"hciAddressEng": "Radiology Department, LG1, 2 Eastern Hospital Road, Causeway Bay, Hong Kong",
+			"hciAddressChiT": "香港銅鑼灣東院道2號地庫1樓放射部",
+			"hciAddressChiS": "香港铜锣湾东院道2号地库1楼放射部",
+			"openingHourMon": [{"from": "09:00", "to": "13:00"}, {"from": "15:30", "to": "19:00"}, {"from": "20:00", "to": "23:00"}],
+			"openingHourTue": [{"from": "09:00", "to": "13:00"}, {"from": "15:30", "to": "19:00"}],
+			"openingHourWed": [{"from": "09:00", "to": "13:00"}, {"from": "15:30", "to": "19:00"}],
+			"openingHourThu": [{"from": "09:00", "to": "13:00"}, {"from": "15:30", "to": "19:00"}],
+			"openingHourFri": [{"from": "09:00", "to": "13:00"}, {"from": "15:30", "to": "19:00"}],
+			"openingHourSat": null,
+			"openingHourSun": [{"from": "09:00", "to": "12:00"}],
+			"openingHourPub": [{"from": "09:00", "to": "12:00"}],
+			"transportEng": "MTR: Exit F, Causeway Bay Station||Bus:|Stop at: “St Paul’s Hospital”|5B, 25A, 63, 72, 72A, 76, 96, 511, 592, 962, 969, 969P||Stop at: “Hong Kong Central Library”|2A, 2X, 8, 8P, 11, 19, 23B, 25C, 26, 38, 42, 77, 81, 601, 680, 681, 690||Stop at: “Victoria Park”|102, 103, 106, 110, 112, 116, 170, 619, 914, 948",
+			"transportChiT": "港鐵：銅鑼灣站F出口||巴士:|車站：“聖保祿醫院”|5B, 25A, 63, 72, 72A, 76, 96, 511, 592, 962, 969, 969P||車站：“中央圖書館”|2A, 2X, 8, 8P, 11, 19, 23B, 25C, 26, 38, 42, 77, 81, 601, 680, 681, 690||車站：”維多利亞公園“|102, 103, 106, 110, 112, 116, 170, 619, 914, 948",
+			"transportChiS": "港铁：铜锣湾站F出口||巴士:|车站：“圣保禄医院”|5B, 25A, 63, 72, 72A, 76, 96, 511, 592, 962, 969, 969P||车站：“中央图书馆”|2A, 2X, 8, 8P, 11, 19, 23B, 25C, 26, 38, 42, 77, 81, 601, 680, 681, 690||车站：”维多利亚公园“|102, 103, 106, 110 , 112, 116, 170, 619, 914, 948"
+		}
+	]
+}
+

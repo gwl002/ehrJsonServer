@@ -1,0 +1,24 @@
+{
+	"deviceReg": [
+	{
+		"set": "1",
+		"result" : {
+		    "resultCode": "10000",
+		    "resultDesc": "Enable success"
+	  }
+	},
+	{
+		"set": "0",
+		"result" : {
+		    "resultCode": "10000",
+		    "resultDesc": "Disable success"
+	  }
+	},
+	{
+		"set": "-1",
+		"result" : {
+		    "resultCode": "-10",
+		    "resultDesc": "Set failure"
+	  }
+	}]
+}

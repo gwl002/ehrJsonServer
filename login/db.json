@@ -1,0 +1,715 @@
+{
+  "users": {
+    "token": [
+      {
+        "caseId": 1.1,
+        "tdt": "abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "invalid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_client",
+            "errorMsg": "Invalid client"
+          },
+          "code": 400,
+          "header": ""
+        },
+        "grantType": "",
+        "userName": "",
+        "password": "",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 1.2,
+        "tdt": "",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_request",
+            "errorMsg": "Invalid request"
+          },
+          "code": 400,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"PASSWORD\""
+          }
+        },
+        "grantType": "",
+        "userName": "",
+        "password": "",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 1.3,
+        "tdt": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxabcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_grant",
+            "errorMsg": "User name and password authentication required"
+          },
+          "code": 401,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"PASSWORD\""
+          }
+        },
+        "grantType": "",
+        "userName": "",
+        "password": "",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 1.4,
+        "tdt": "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyabcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_grant",
+            "errorMsg": "Biometric authentication required"
+          },
+          "code": 401,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"BIO_AUTHEN\""
+          }
+        },
+        "grantType": "",
+        "userName": "",
+        "password": "",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 1.5,
+        "tdt": "abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_grant",
+            "errorMsg": "Trusted device authentication required"
+          },
+          "code": 401,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"TRUSTED_DEVICE\""
+          }
+        },
+        "grantType": "",
+        "userName": "",
+        "password": "",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 1.6,
+        "tdt": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzabcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_grant",
+            "errorMsg": "User name and password authentication required"
+          },
+          "code": 401,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"PASSWORD\""
+          }
+        },
+        "grantType": "",
+        "userName": "",
+        "password": "",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 2.1,
+        "tdt": "abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "invalid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body" : {
+            "error": "invalid_client",
+            "errorMsg": "Invalid client"
+          },
+          "code": 400,
+          "header": ""
+        },
+        "grantType": "logon_password",
+        "userName": "user0001",
+        "password": "~~1234abcd",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 2.2,
+        "tdt": "abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_request",
+            "errorMsg": "Invalid request"
+          },
+          "code": 400,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"PASSWORD\""
+          }
+        },
+        "grantType": "",
+        "userName": "user0001",
+        "password": "~~1234abcd",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 2.3,
+        "tdt": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzabcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_grant",
+            "errorMsg": "User name and password authentication required"
+          },
+          "code": 401,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"PASSWORD\""
+          }
+        },
+        "grantType": "logon_password",
+        "userName": "user0001",
+        "password": "~~1234abcd",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 2.4,
+        "tdt": "abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_grant",
+            "errorMsg": "Invalid user name or password"
+          },
+          "code": 401,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"PASSWORD\""
+          }
+        },
+        "grantType": "logon_password",
+        "userName": "user0001",
+        "password": "~~1234xxxx",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 2.5,
+        "tdt": "abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "otp_token": "0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstu.0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz012345678.0123456789abcdefghijkl.0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghi.0123456789abcdefghijkl"
+          },
+          "code": 200,
+          "header": {
+            "WWWAuthenticate": ""
+          }
+        },
+        "grantType": "logon_password",
+        "userName": "user0001",
+        "password": "~~1234abcd",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 3.1,
+        "tdt": "",
+        "clientId": "invalid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body" : {
+            "error": "invalid_client",
+            "errorMsg": "Invalid client"
+          },
+          "code": 400,
+          "header": ""
+        },
+        "grantType": "logon_otp",
+        "userName": "",
+        "password": "",
+        "otp": 123456,
+        "otp_token": "0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstu.0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz012345678.0123456789abcdefghijkl.0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghi.0123456789abcdefghijkl",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 3.2,
+        "tdt": "",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_request",
+            "errorMsg": "Invalid request"
+          },
+          "code": 400,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"PASSWORD\""
+          }
+        },
+        "grantType": "",
+        "userName": "",
+        "password": "",
+        "otp": 123456,
+        "otp_token": "0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstu.0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz012345678.0123456789abcdefghijkl.0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghi.0123456789abcdefghijkl",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 3.3,
+        "tdt": "",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_grant",
+            "errorMsg": "User name and password authentication required"
+          },
+          "code": 401,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"PASSWORD\""
+          }
+        },
+        "grantType": "logon_otp",
+        "userName": "",
+        "password": "",
+        "otp": 123456,
+        "otp_token": "xxxxxxxxxxabcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstu.0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz012345678.0123456789abcdefghijkl.0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghi.0123456789abcdefghijkl",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 3.4,
+        "tdt": "",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_grant",
+            "errorMsg": "Invalid user name or password"
+          },
+          "code": 401,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"PASSWORD\""
+          }
+        },
+        "grantType": "logon_otp",
+        "userName": "",
+        "password": "",
+        "otp": 987654,
+        "otp_token": "0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstu.0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz012345678.0123456789abcdefghijkl.0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghi.0123456789abcdefghijkl",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 3.5,
+        "tdt": "",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "access_token": "accesstokenabcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst.0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz012345678.0123456789abcdefghijkl.0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghi.0123456789abcdefghijkl",
+            "refresh_token": "refreshtokenabcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrs.0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz012345678.0123456789abcdefghijkl.0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghi.0123456789abcdefghijkl",
+            "expiry_in": 1234567890123,
+            "token_type": "Bearer"
+          },
+          "code": 200,
+          "header": {
+            "WWWAuthenticate": ""
+          }
+        },
+        "grantType": "logon_otp",
+        "userName": "",
+        "password": "",
+        "otp": 123456,
+        "otp_token": "0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstu.0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz012345678.0123456789abcdefghijkl.0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghi.0123456789abcdefghijkl",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 4.1,
+        "tdt": "abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "invalid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body" : {
+            "error": "invalid_client",
+            "errorMsg": "Invalid client"
+          },
+          "code": 400,
+          "header": ""
+        },
+        "grantType": "logon_device",
+        "userName": "",
+        "password": "~~1234abcd",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 4.2,
+        "tdt": "abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_request",
+            "errorMsg": "Invalid request"
+          },
+          "code": 400,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"PASSWORD\""
+          }
+        },
+        "grantType": "",
+        "userName": "",
+        "password": "~~1234abcd",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 4.3,
+        "tdt": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxabcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_grant",
+            "errorMsg": "Invalid device"
+          },
+          "code": 401,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"PASSWORD\""
+          }
+        },
+        "grantType": "logon_device",
+        "userName": "",
+        "password": "~~1234abcd",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 4.4,
+        "tdt": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzabcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_grant",
+            "errorMsg": "Invalid device"
+          },
+          "code": 401,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"PASSWORD\""
+          }
+        },
+        "grantType": "logon_device",
+        "userName": "",
+        "password": "~~1234abcd",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 4.5,
+        "tdt": "abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_grant",
+            "errorMsg": "Invalid device or user password"
+          },
+          "code": 401,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"TRUSTED_DEVICE\""
+          }
+        },
+        "grantType": "logon_device",
+        "userName": "",
+        "password": "~~1234xxxx",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 4.6,
+        "tdt": "abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "access_token": "accesstokenabcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst.0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz012345678.0123456789abcdefghijkl.0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghi.0123456789abcdefghijkl",
+            "refresh_token": "refreshtokenabcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrs.0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz012345678.0123456789abcdefghijkl.0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghi.0123456789abcdefghijkl",
+            "expiry_in": 1234567890123,
+            "token_type": "Bearer"
+          },
+          "code": 200,
+          "header": {
+            "WWWAuthenticate": ""
+          }
+        },
+        "grantType": "logon_device",
+        "userName": "",
+        "password": "~~1234abcd",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "",
+        "challengeId": "",
+        "challengeSecret": ""
+      },
+      {
+        "caseId": 6.1,
+        "tdt": "",
+        "clientId": "invalid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body" : {
+            "error": "invalid_client",
+            "errorMsg": "Invalid client"
+          },
+          "code": 400,
+          "header": ""
+        },
+        "grantType": "logon_biometric",
+        "userName": "",
+        "password": "",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "67a58cnophuioVTUIRFBhducioa68icbysyudfiovVRTFDYUILBYFEBXGHFJKGHJOydfuaioe6dufklhdaucio46vIORFVTdjklcbsfnjkblacyukdlbyu890e567285bcghjkLBTYRFUIbdhjkaln7IOTBufilnhcqeuwipcb67OVRTOhjdfklhcjak783hjkHKLFusklhj93jklfhKLHFjkld8930jrlshjKLHKGLFdhsaofu990HUD78HJKFh",
+        "challengeId": "id8967GKJGBKCX789dfsaDFaGDAR45r4ASGFSDBSdf65shsfggaesasdfASDFA23425ADFGAdxasr5asDFA546tagCDGAFGDASWE431543qtgdsfgavcFSDFASTGY5645rtasT4tgasDCGA4t6542342ADFASFDAr43eraw534563565afdgasdFAS5t45243asdrFASFGGrfgdzrtfwsDFA343q6adgfas3432hjk34uoi4h3ARDASDda789dfa",
+        "challengeSecret": "secretGKJGBKCX789dfsaDFaGDAR45r4ASGFSDBSdf65shsfggaesasdfASDFA23425ADFGAdxasr5asDFA546tagCDGAFGDASWE431543qtgdsfgavcFSDFASTGY5645rtasT4tgasDCGA4t6542342ADFASFDAr43eraw534563565afdgasdFAS5t45243asdrFASFGGrfgdzrtfwsDFA343q6adgfas3432hjk34uoi4h3ARDASDda789dfa"
+      },
+      {
+        "caseId": 6.2,
+        "tdt": "",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_request",
+            "errorMsg": "Invalid request"
+          },
+          "code": 400,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"PASSWORD\""
+          }
+        },
+        "grantType": "",
+        "userName": "",
+        "password": "",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "67a58cnophuioVTUIRFBhducioa68icbysyudfiovVRTFDYUILBYFEBXGHFJKGHJOydfuaioe6dufklhdaucio46vIORFVTdjklcbsfnjkblacyukdlbyu890e567285bcghjkLBTYRFUIbdhjkaln7IOTBufilnhcqeuwipcb67OVRTOhjdfklhcjak783hjkHKLFusklhj93jklfhKLHFjkld8930jrlshjKLHKGLFdhsaofu990HUD78HJKFh",
+        "challengeId": "id8967GKJGBKCX789dfsaDFaGDAR45r4ASGFSDBSdf65shsfggaesasdfASDFA23425ADFGAdxasr5asDFA546tagCDGAFGDASWE431543qtgdsfgavcFSDFASTGY5645rtasT4tgasDCGA4t6542342ADFASFDAr43eraw534563565afdgasdFAS5t45243asdrFASFGGrfgdzrtfwsDFA343q6adgfas3432hjk34uoi4h3ARDASDda789dfa",
+        "challengeSecret": "secretGKJGBKCX789dfsaDFaGDAR45r4ASGFSDBSdf65shsfggaesasdfASDFA23425ADFGAdxasr5asDFA546tagCDGAFGDASWE431543qtgdsfgavcFSDFASTGY5645rtasT4tgasDCGA4t6542342ADFASFDAr43eraw534563565afdgasdFAS5t45243asdrFASFGGrfgdzrtfwsDFA343q6adgfas3432hjk34uoi4h3ARDASDda789dfa"
+      },
+      {
+        "caseId": 6.3,
+        "tdt": "",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_grant",
+            "errorMsg": "Invalid device"
+          },
+          "code": 401,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"PASSWORD\""
+          }
+        },
+        "grantType": "logon_biometric",
+        "userName": "",
+        "password": "",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "xxxxxxnophuioVTUIRFBhducioa68icbysyudfiovVRTFDYUILBYFEBXGHFJKGHJOydfuaioe6dufklhdaucio46vIORFVTdjklcbsfnjkblacyukdlbyu890e567285bcghjkLBTYRFUIbdhjkaln7IOTBufilnhcqeuwipcb67OVRTOhjdfklhcjak783hjkHKLFusklhj93jklfhKLHFjkld8930jrlshjKLHKGLFdhsaofu990HUD78HJKFh",
+        "challengeId": "id8967GKJGBKCX789dfsaDFaGDAR45r4ASGFSDBSdf65shsfggaesasdfASDFA23425ADFGAdxasr5asDFA546tagCDGAFGDASWE431543qtgdsfgavcFSDFASTGY5645rtasT4tgasDCGA4t6542342ADFASFDAr43eraw534563565afdgasdFAS5t45243asdrFASFGGrfgdzrtfwsDFA343q6adgfas3432hjk34uoi4h3ARDASDda789dfa",
+        "challengeSecret": "secretGKJGBKCX789dfsaDFaGDAR45r4ASGFSDBSdf65shsfggaesasdfASDFA23425ADFGAdxasr5asDFA546tagCDGAFGDASWE431543qtgdsfgavcFSDFASTGY5645rtasT4tgasDCGA4t6542342ADFASFDAr43eraw534563565afdgasdFAS5t45243asdrFASFGGrfgdzrtfwsDFA343q6adgfas3432hjk34uoi4h3ARDASDda789dfa"
+      },
+      {
+        "caseId": 6.4,
+        "tdt": "",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_grant",
+            "errorMsg": "Invalid device"
+          },
+          "code": 401,
+          "header": {
+            "WWWAuthenticate": "ehr realm=\"PASSWORD\""
+          }
+        },
+        "grantType": "logon_biometric",
+        "userName": "",
+        "password": "",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "67a58cnophuioVTUIRFBhducioa68icbysyudfiovVRTFDYUILBYFEBXGHFJKGHJOydfuaioe6dufklhdaucio46vIORFVTdjklcbsfnjkblacyukdlbyu890e567285bcghjkLBTYRFUIbdhjkaln7IOTBufilnhcqeuwipcb67OVRTOhjdfklhcjak783hjkHKLFusklhj93jklfhKLHFjkld8930jrlshjKLHKGLFdhsaofu990HUD78HJKFh",
+        "challengeId": "id8967GKJGBKCX789dfsaDFaGDAR45r4ASGFSDBSdf65shsfggaesasdfASDFA23425ADFGAdxasr5asDFA546tagCDGAFGDASWE431543qtgdsfgavcFSDFASTGY5645rtasT4tgasDCGA4t6542342ADFASFDAr43eraw534563565afdgasdFAS5t45243asdrFASFGGrfgdzrtfwsDFA343q6adgfas3432hjk34uoi4h3ARDASDda789dfa",
+        "challengeSecret": "invalidsecretGKJGBKCX789dfsaDFaGDAR45r4ASGFSDBSdf65shsfggaesasdfASDFA23425ADFGAdxasr5asDFA546tagCDGAFGDASWE431543qtgdsfgavcFSDFASTGY5645rtasT4tgasDCGA4t6542342ADFASFDAr43eraw534563565afdgasdFAS5t45243asdrFASFGGrfgdzrtfwsDFA343q6adgfas3432hjk34uoi4h3ARDASDd"
+      },
+      {
+        "caseId": 6.5,
+        "tdt": "",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "access_token": "accesstokenabcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst.0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz012345678.0123456789abcdefghijkl.0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghi.0123456789abcdefghijkl",
+            "refresh_token": "refreshtokenabcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrs.0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz0123456789-abcdefghijklmnopqrstuvwxyz012345678.0123456789abcdefghijkl.0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghijklmnopqrstuvwxyz_0123456789-abcdefghi.0123456789abcdefghijkl",
+            "expiry_in": 1234567890123,
+            "token_type": "Bearer"
+          },
+          "code": 200,
+          "header": {
+            "WWWAuthenticate": ""
+          }
+        },
+        "grantType": "logon_biometric",
+        "userName": "",
+        "password": "",
+        "otp": -999999,
+        "otp_token": "",
+        "bat": "67a58cnophuioVTUIRFBhducioa68icbysyudfiovVRTFDYUILBYFEBXGHFJKGHJOydfuaioe6dufklhdaucio46vIORFVTdjklcbsfnjkblacyukdlbyu890e567285bcghjkLBTYRFUIbdhjkaln7IOTBufilnhcqeuwipcb67OVRTOhjdfklhcjak783hjkHKLFusklhj93jklfhKLHFjkld8930jrlshjKLHKGLFdhsaofu990HUD78HJKFh",
+        "challengeId": "id8967GKJGBKCX789dfsaDFaGDAR45r4ASGFSDBSdf65shsfggaesasdfASDFA23425ADFGAdxasr5asDFA546tagCDGAFGDASWE431543qtgdsfgavcFSDFASTGY5645rtasT4tgasDCGA4t6542342ADFASFDAr43eraw534563565afdgasdFAS5t45243asdrFASFGGrfgdzrtfwsDFA343q6adgfas3432hjk34uoi4h3ARDASDda789dfa",
+        "challengeSecret": "secretGKJGBKCX789dfsaDFaGDAR45r4ASGFSDBSdf65shsfggaesasdfASDFA23425ADFGAdxasr5asDFA546tagCDGAFGDASWE431543qtgdsfgavcFSDFASTGY5645rtasT4tgasDCGA4t6542342ADFASFDAr43eraw534563565afdgasdFAS5t45243asdrFASFGGrfgdzrtfwsDFA343q6adgfas3432hjk34uoi4h3ARDASDda789dfa"
+      }
+    ],
+    "logonchallenge": [
+      {
+        "caseId": 5.1,
+        "tdt": "abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "invalid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_client",
+            "errorMsg": "Invalid client"
+          },
+          "code": 400
+        }
+      },
+      {
+        "caseId": 5.2,
+        "tdt": "",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_request",
+            "errorMsg": "Invalid request"
+          },
+          "code": 400
+        }
+      },
+      {
+        "caseId": 5.3,
+        "tdt": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxabcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_grant",
+            "errorMsg": "Invalid device"
+          },
+          "code": 401
+        }
+      },
+      {
+        "caseId": 5.4,
+        "tdt": "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyabcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "error": "invalid_grant",
+            "errorMsg": "Invalid device"
+          },
+          "code": 401
+        }
+      },
+      {
+        "caseId": 5.5,
+        "tdt": "abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst",
+        "clientId": "valid_client_id",
+        "clientSecret": "92a2a606d6ac947a7384ed924d3cdf52",
+        "response": {
+          "body": {
+            "challenge": "aWQ4OTY3R0tKR0JLQ1g3ODlkZnNhREZhR0RBUjQ1cjRBU0dGU0RCU2RmNjVzaHNmZ2dhZXNhc2RmQVNERkEyMzQyNUFERkdBZHhhc3I1YXNERkE1NDZ0YWdDREdBRkdEQVNXRTQzMTU0M3F0Z2RzZmdhdmNGU0RGQVNUR1k1NjQ1cnRhc1Q0dGdhc0RDR0E0dDY1NDIzNDJBREZBU0ZEQXI0M2VyYXc1MzQ1NjM1NjVhZmRnYXNkRkFTNXQ0NTI0M2FzZHJGQVNGR0dyZmdkenJ0ZndzREZBMzQzcTZhZGdmYXMzNDMyaGprMzR1b2k0aDNBUkRBU0RkYTc4OWRmYR9zZWNyZXRHS0pHQktDWDc4OWRmc2FERmFHREFSNDVyNEFTR0ZTREJTZGY2NXNoc2ZnZ2Flc2FzZGZBU0RGQTIzNDI1QURGR0FkeGFzcjVhc0RGQTU0NnRhZ0NER0FGR0RBU1dFNDMxNTQzcXRnZHNmZ2F2Y0ZTREZBU1RHWTU2NDVydGFzVDR0Z2FzRENHQTR0NjU0MjM0MkFERkFTRkRBcjQzZXJhdzUzNDU2MzU2NWFmZGdhc2RGQVM1dDQ1MjQzYXNkckZBU0ZHR3JmZ2R6cnRmd3NERkEzNDNxNmFkZ2ZhczM0MzJoamszNHVvaTRoM0FSREFTRGRhNzg5ZGZh"
+          },
+          "code": 200
+        }
+      }
+    ]
+  }
+}
