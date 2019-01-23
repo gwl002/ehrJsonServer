@@ -53,35 +53,35 @@
 				{
 					"progName": "GOPC",
 					"link": {
-						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=gopc",
+						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=GOPC",
 						"rel": "getGopcProfByHci"
 					}
 				},
 				{
 					"progName": "CSP",
 					"link": {
-						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=csp",
+						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=CSP",
 						"rel": "getCspProfByHci"
 					}
 				},
 				{
 					"progName": "COLON",
 					"link": {
-						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=colon",
+						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=COLON",
 						"rel": "getColonProfByHci"
 					}
 				},
 				{
 					"progName": "CRC",
 					"link": {
-						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=crc",
+						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=CRC",
 						"rel": "getCrcProfByHci"
 					}
 				},
 				{
 					"progName": "RADI",
 					"link": {
-						"href": "/ppphci?hcpId_like=1000000001&hciId_like=1234567890&prog=radi",
+						"href": "/ppphci?hcpId_like=1000000001&hciId_like=1234567890&prog=RADI",
 						"rel": "getRadiProfByHci"
 					}
 				}
@@ -140,14 +140,14 @@
 				{
 					"progName": "GOPC",
 					"link": {
-						"href": "/pppdoctor?hcpId_like=2000000001&hciId_like=1111111111&prog=gopc",
+						"href": "/pppdoctor?hcpId_like=2000000001&hciId_like=1111111111&prog=GOPC",
 						"rel": "getGopcProfByHci"
 					}
 				},
 				{
 					"progName": "CRC",
 					"link": {
-						"href": "/pppdoctor?hcpId_like=2000000001&hciId_like=1111111111&prog=crc",
+						"href": "/pppdoctor?hcpId_like=2000000001&hciId_like=1111111111&prog=CRC",
 						"rel": "getCrcProfByHci"
 					}
 				}

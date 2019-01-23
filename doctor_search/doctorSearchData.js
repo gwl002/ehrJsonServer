@@ -6,5 +6,6 @@ module.exports = function() {
     require('./pppdoctor.json'),
     require('./ppphci.json'),
     require('./ehrdoctor.json'),
+    require('./system.json'),
     );
 };

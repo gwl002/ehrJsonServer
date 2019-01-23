@@ -39,49 +39,49 @@
 				{
 					"progName": "GOPC",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=gopc",
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=GOPC",
 						"rel": "getGopcDetail"
 					}
 				},
 				{
 					"progName": "CSP",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=csp",
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=CSP",
 						"rel": "getCspDetail"
 					}
 				},
 				{
 					"progName": "COLON",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=colon",
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=COLON",
 						"rel": "getColonDetail"
 					}
 				},
 				{
 					"progName": "CRC",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=crc",
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=CRC",
 						"rel": "getCrcDetail"
 					}
 				},
 				{
 					"progName": "PCD",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=pcd",
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=PCD",
 						"rel": "getPcdDetail"
 					}
 				},
 				{
 					"progName": "HCVS",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=hcvs",
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=HCVS",
 						"rel": "getHcvsDetail"
 					}
 				},
 				{
 					"progName": "VSS",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=vss",
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=VSS",
 						"rel": "getVssDetail"
 					}
 				}
@@ -114,21 +114,21 @@
 				{
 					"progName": "GOPC",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00004&prog=gopc",
+						"href": "/pppdoctor?profId_like=RMP-M00004&prog=GOPC",
 						"rel": "getGopcDetail"
 					}
 				},
 				{
 					"progName": "CSP",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00004&prog=csp",
+						"href": "/pppdoctor?profId_like=RMP-M00004&prog=CSP",
 						"rel": "getCspDetail"
 					}
 				},
 				{
 					"progName": "COLON",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00004&prog=colon",
+						"href": "/pppdoctor?profId_like=RMP-M00004&prog=COLON",
 						"rel": "getColonDetail"
 					}
 				}
@@ -161,14 +161,14 @@
 				{
 					"progName": "CRC",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00005&prog=crc",
+						"href": "/pppdoctor?profId_like=RMP-M00005&prog=CRC",
 						"rel": "getCrcDetail"
 					}
 				},
 				{
 					"progName": "PCD",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00005&prog=pcd",
+						"href": "/pppdoctor?profId_like=RMP-M00005&prog=PCD",
 						"rel": "getPcdDetail"
 					}
 				}
@@ -236,35 +236,35 @@
 				{
 					"progName": "RADI",
 					"link": {
-						"href": "/ppphci?hcpId_like=1000000001&hciId_like=1234567890&prog=radi",
+						"href": "/ppphci?hcpId_like=1000000001&hciId_like=1234567890&prog=RADI",
 						"rel": "getRadiDetail"
 					}
 				},
 				{
 					"progName": "GOPC",
 					"link": {
-						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=gopc",
+						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=GOPC",
 						"rel": "getGopcDetail"
 					}
 				},
 				{
 					"progName": "CSP",
 					"link": {
-						"href": "//pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=csp",
+						"href": "//pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=CSP",
 						"rel": "getCspDetail"
 					}
 				},
 				{
 					"progName": "COLON",
 					"link": {
-						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=colon",
+						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=COLON",
 						"rel": "getColonDetail"
 					}
 				},
 				{
 					"progName": "CRC",
 					"link": {
-						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=crc",
+						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=CRC",
 						"rel": "getCrcDetail"
 					}
 				}
@@ -291,7 +291,7 @@
 				{
 					"progName": "CRC",
 					"link": {
-						"href": "/pppdoctor?hcpId_like=2000000001&hciId_like=1111111111&prog=crc",
+						"href": "/pppdoctor?hcpId_like=2000000001&hciId_like=1111111111&prog=CRC",
 						"rel": "getCrcDetail"
 					}
 				}
@@ -333,7 +333,7 @@
 				{
 					"progName": "HCVS",
 					"link": {
-						"href": "/pppdoctor?profId_like=CMP-M00002&prog=hcvs",
+						"href": "/pppdoctor?profId_like=CMP-M00002&prog=HCVS",
 						"rel": "getHcvsDetail"
 					}
 				}
@@ -354,14 +354,14 @@
 				{
 					"progName": "HCVS",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00003&prog=hcvs",
+						"href": "/pppdoctor?profId_like=RMP-M00003&prog=HCVS",
 						"rel": "getHcvsDetail"
 					}
 				},
 				{
 					"progName": "VSS",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00003&prog=vss",
+						"href": "/pppdoctor?profId_like=RMP-M00003&prog=VSS",
 						"rel": "getVssDetail"
 					}
 				}
@@ -417,49 +417,49 @@
 				{
 					"progName": "GOPC",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=gopc",
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=GOPC",
 						"rel": "getGopcDetail"
 					}
 				},
 				{
 					"progName": "CSP",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=csp",
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=CSP",
 						"rel": "getCspDetail"
 					}
 				},
 				{
 					"progName": "COLON",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=colon",
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=COLON",
 						"rel": "getColonDetail"
 					}
 				},
 				{
 					"progName": "CRC",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=crc",
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=CRC",
 						"rel": "getCrcDetail"
 					}
 				},
 				{
 					"progName": "PCD",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=pcd",
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=PCD",
 						"rel": "getPcdDetail"
 					}
 				},
 				{
 					"progName": "HCVS",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=hcvs",
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=HCVS",
 						"rel": "getHcvsDetail"
 					}
 				},
 				{
 					"progName": "VSS",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=vss",
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=VSS",
 						"rel": "getVssDetail"
 					}
 				}
@@ -492,21 +492,21 @@
 				{
 					"progName": "GOPC",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00004&prog=gopc",
+						"href": "/pppdoctor?profId_like=RMP-M00004&prog=GOPC",
 						"rel": "getGopcDetail"
 					}
 				},
 				{
 					"progName": "CSP",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00004&prog=csp",
+						"href": "/pppdoctor?profId_like=RMP-M00004&prog=CSP",
 						"rel": "getCspDetail"
 					}
 				},
 				{
 					"progName": "COLON",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00004&prog=colon",
+						"href": "/pppdoctor?profId_like=RMP-M00004&prog=COLON",
 						"rel": "getColonDetail"
 					}
 				}
@@ -530,14 +530,14 @@
 				{
 					"progName": "HCVS",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00003&prog=hcvs",
+						"href": "/pppdoctor?profId_like=RMP-M00003&prog=HCVS",
 						"rel": "getHcvsDetail"
 					}
 				},
 				{
 					"progName": "VSS",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00003&prog=vss",
+						"href": "/pppdoctor?profId_like=RMP-M00003&prog=VSS",
 						"rel": "getVssDetail"
 					}
 				}
@@ -573,35 +573,35 @@
 				{
 					"progName": "RADI",
 					"link": {
-						"href": "/ppphci?hcpId_like=1000000001&hciId_like=1234567890&prog=radi",
+						"href": "/ppphci?hcpId_like=1000000001&hciId_like=1234567890&prog=RADI",
 						"rel": "getRadiDetail"
 					}
 				},
 				{
 					"progName": "GOPC",
 					"link": {
-						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=gopc",
+						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=GOPC",
 						"rel": "getGopcDetail"
 					}
 				},
 				{
 					"progName": "CSP",
 					"link": {
-						"href": "//pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=csp",
+						"href": "//pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=CSP",
 						"rel": "getCspDetail"
 					}
 				},
 				{
 					"progName": "COLON",
 					"link": {
-						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=colon",
+						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=COLON",
 						"rel": "getColonDetail"
 					}
 				},
 				{
 					"progName": "CRC",
 					"link": {
-						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=crc",
+						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=CRC",
 						"rel": "getCrcDetail"
 					}
 				}
@@ -628,7 +628,7 @@
 				{
 					"progName": "CRC",
 					"link": {
-						"href": "/pppdoctor?hcpId_like=2000000001&hciId_like=1111111111&prog=crc",
+						"href": "/pppdoctor?hcpId_like=2000000001&hciId_like=1111111111&prog=CRC",
 						"rel": "getCrcDetail"
 					}
 				}

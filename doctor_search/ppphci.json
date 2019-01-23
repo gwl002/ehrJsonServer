@@ -1,7 +1,7 @@
 {
 	"ppphci": [
 		{
-			"prog": "radi",
+			"prog": "RADI",
 			"hcpId": 1000000001,
 			"hciId": 1234567890,
 			"hciNameEng": "TAI MAN HOSPITAL",

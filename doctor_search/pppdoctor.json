@@ -1,7 +1,7 @@
 {
 	"pppdoctor": [
 		{
-			"prog": "gopc",
+			"prog": "GOPC",
 			"hcpId": 1000000001,
 			"hciId": 1234567890,
 			"profId": "RMP-M00001",
@@ -30,7 +30,7 @@
 			"openingHourPub": null
 		},
 		{
-			"prog": "gopc",
+			"prog": "GOPC",
 			"hcpId": 2000000001,
 			"hciId": 1111111111,
 			"profId": "RMP-M00001",
@@ -59,7 +59,7 @@
 			"openingHourPub": null
 		},
 		{
-			"prog": "csp",
+			"prog": "CSP",
 			"hcpId": 1000000001,
 			"hciId": 1234567890,
 			"profId": "RMP-M00001",
@@ -92,7 +92,7 @@
 			]
 		},
 		{
-			"prog": "colon",
+			"prog": "COLON",
 			"hcpId": 1000000001,
 			"hciId": 1234567890,
 			"profId": "RMP-M00001",
@@ -117,7 +117,7 @@
 			"copayWaiverWO": "1000"
 		},
 		{
-			"prog": "crc",
+			"prog": "CRC",
 			"hcpId": 1000000001,
 			"hciId": 1234567890,
 			"profId": "RMP-M00001",
@@ -142,7 +142,7 @@
 			"charityQuota": "Not Applicable"
 		},
 		{
-			"prog": "crc",
+			"prog": "CRC",
 			"hcpId": 2000000001,
 			"hciId": 1111111111,
 			"profId": "RMP-M00001",
@@ -167,7 +167,7 @@
 			"charityQuota": null
 		},
 		{
-			"prog": "pcd",
+			"prog": "PCD",
 			"profId": "RMP-M00001",
 			"regNo": "M00001",
 			"typeOfProf": "Registered Medical Practitioners",
@@ -378,7 +378,7 @@
 			"lastUpdDate": "21/03/2017"
 		},
 		{
-			"prog": "hcvs",
+			"prog": "HCVS",
 			"profId": "RMP-M00001",
 			"regNo": "M00001",
 			"typeOfProf": "Registered Medical Practitioners",
@@ -396,7 +396,7 @@
 			"telephone": "12345678"
 		},
 		{
-			"prog": "vss",
+			"prog": "VSS",
 			"profId": "RMP-M00001",
 			"regNo": "M00001",
 			"typeOfProf": "Registered Medical Practitioners",
@@ -495,7 +495,7 @@
 			]
 		},
 		{
-			"prog": "hcvs",
+			"prog": "HCVS",
 			"profId": "CMP-M00002",
 			"regNo": "M00002",
 			"typeOfProf": "Chinese Medicine Practitioners",
@@ -513,7 +513,7 @@
 			"telephone": "12345678"
 		},
 		{
-			"prog": "hcvs",
+			"prog": "HCVS",
 			"profId": "RMP-M00003",
 			"regNo": "M00003",
 			"typeOfProf": "Registered Medical Practitioners",
@@ -531,7 +531,7 @@
 			"telephone": "12345678"
 		},
 		{
-			"prog": "vss",
+			"prog": "VSS",
 			"profId": "RMP-M00003",
 			"regNo": "M00003",
 			"typeOfProf": "Registered Medical Practitioners",
@@ -630,7 +630,7 @@
 			]
 		},
 		{
-			"prog": "gopc",
+			"prog": "GOPC",
 			"hcpId": 1000000001,
 			"hciId": 1234567890,
 			"profId": "RMP-M00004",
@@ -659,7 +659,7 @@
 			"openingHourPub": null
 		},
 		{
-			"prog": "csp",
+			"prog": "CSP",
 			"hcpId": 1000000001,
 			"hciId": 1234567890,
 			"profId": "RMP-M00004",
@@ -692,7 +692,7 @@
 			]
 		},
 		{
-			"prog": "crc",
+			"prog": "CRC",
 			"hcpId": 2000000001,
 			"hciId": 1111111111,
 			"profId": "RMP-M00005",
@@ -717,7 +717,7 @@
 			"charityQuota": null
 		},
 		{
-			"prog": "pcd",
+			"prog": "PCD",
 			"profId": "RMP-M00005",
 			"regNo": "M00005",
 			"typeOfProf": "Registered Medical Practitioners",
