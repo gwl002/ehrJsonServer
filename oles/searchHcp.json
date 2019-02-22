@@ -1,0 +1,57 @@
+{
+	"searchHcp": [{
+				"hcpId": 1000000001,
+				"hcpNameEng": "TAI MAN HOSPITAL",
+				"hcpNameChiT": "大文醫院",
+				"hcpNameChiS": "大文医院",
+				"hcpAddressEng": "2/F-3/F, CHUANG'S TOWER, 30-32, CONNAUGHT RD C, CENTRAL, HONG KONG",
+				"hcpAddressChiT": "香港中環干諾道中30-32號莊士大廈2樓-3樓",
+				"hcpAddressChiS": "香港中环干诺道中30-32号庄士大厦2楼-3楼",
+				"hcpTelephone": "87654321",
+				"hslInfo": [{
+					"hslId": 1234567890,
+					"hslNameEng": "TAI MAN HOSPITAL",
+					"hslNameChiT": "大文醫院",
+					"hslNameChiS": "大文医院",
+					"hslAddressEng": "2/F-3/F, CHUANG'S TOWER, 30-32, CONNAUGHT RD C, CENTRAL, HONG KONG",
+					"hslAddressChiT": "香港中環干諾道中30-32號莊士大廈2樓-3樓",
+					"hslAddressChiS": "香港中环干诺道中30-32号庄士大厦2楼-3楼",
+					"hslTelephone": "12345678"
+				}]
+			},
+			{
+				"hcpId": 2000000001,
+				"hcpNameEng": "TAI MAN MEDICIAL GROUP",
+				"hcpNameChiT": "大文醫療集團",
+				"hcpNameChiS": "大文医疗集团",
+				"hcpAddressEng": "99/F, SKYLINE TOWER, 39, WANG KWONG RD, KOWLOON BAY, KOWLOON",
+				"hcpAddressChiT": "九龍九龍灣宏光道39號宏天廣場99樓",
+				"hcpAddressChiS": "九龙九龙湾宏光道39号宏天广场99楼",
+				"hcpTelephone": "87654321",
+				"hslInfo": [{
+						"hslId": 1111111111,
+						"hslNameEng": "TAI MAN MEDICAL CENTRE",
+						"hslNameChiT": "大文醫療中心",
+						"hslNameChiS": "大文医疗中心",
+						"hslAddressEng": "18/F, ASIA STANDARD TOWER, 59-65, QUEEN'S RD C, CENTRAL, HONG KONG",
+						"hslAddressChiT": "香港中環皇后大道中59-65號泛海大廈18樓",
+						"hslAddressChiS": "香港中环皇后大道中59-65号泛海大厦18楼",
+						"hslTelephone": "12345678"
+					},
+					{
+						"hslId": 2222222222,
+						"hslNameEng": "TAI MAN CLINIC(DISCOVERY BAY)",
+						"hslNameChiT": "大文診所(愉景灣)",
+						"hslNameChiS": "大文诊所(愉景湾)",
+						"hslAddressEng": "HOP 108, BLK B, DISCOVERY BAY PLAZA, DISCOVERY BAY, NEW TERRITORIES",
+						"hslAddressChiT": "新界愉景灣愉景灣愉景廣場B座108舖",
+						"hslAddressChiS": "新界愉景湾愉景湾愉景广场B座108铺",
+						"hslTelephone": "12345678"
+					}
+				]
+			},
+			{
+        "token":"44072fb20fbe38322b5e67a7e780978e20abbc80"
+			}
+		]
+}
