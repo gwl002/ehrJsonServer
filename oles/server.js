@@ -9,5 +9,7 @@ const port = process.env.PORT || 8004;
 server.use(middlewares);
 server.use(router);
 
+var ss = require("./olesData.js")();
+console.log(ss);
 
 server.listen(port);

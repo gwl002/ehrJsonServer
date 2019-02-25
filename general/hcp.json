@@ -1,0 +1,85 @@
+{
+	"hcp": [
+		{
+			"hcpId": 1000000001,
+			"hcpNameEng": "TAI MAN HOSPITAL",
+			"hcpNameChiT": "大文醫院",
+			"hcpNameChiS": "大文医院",
+			"hcpAddressEng": "UNIT H, 39/F, COS CENTRE, 56, TSUN YIP STREET, KWUN TONG, KOWLOON",
+			"hcpAddressChiT": "九龍觀塘駿業街56號中海日升中心39樓H室",
+			"hcpAddressChiS": "九龙观塘骏业街56号中海日升中心39楼H室",
+			"hcpAddressLatLong": "22.283626, 114.157121",
+			"hcpTelephone": "87654321",
+			"hcpEmail": null,
+			"hcpWebsite": null,
+			"hciInfo": [
+				{
+					"hciId": 1234567890,
+					"hciNameEng": "TAI MAN HOSPITAL",
+					"hciNameChiT": "大文醫院",
+					"hciNameChiS": "大文医院",
+					"hciAddressEng": "UNIT H, 39/F, COS CENTRE, 56, TSUN YIP STREET, KWUN TONG, KOWLOON",
+					"hciAddressChiT": "九龍觀塘駿業街56號中海日升中心39樓H室",
+					"hciAddressChiS": "九龙观塘骏业街56号中海日升中心39楼H室",
+					"hciAddressLatLong": "22.283626, 114.157121",
+					"hciTelephone": "12345678",
+					"hciEmail": "ctm@test.com",
+					"hciWebsite": null,
+					"hciLink": {
+							"href": "/hci?hcpId_like=1000000001&hciId_like=1234567890",
+							"rel": "showHciDetail"
+					}
+				}
+			]
+		},
+		{
+			"hcpId": 2000000001,
+			"hcpNameEng": "TAI MAN MEDICIAL GROUP",
+			"hcpNameChiT": "大文醫療集團",
+			"hcpNameChiS": "大文医疗集团",
+			"hcpAddressEng": "99/F, SKYLINE TOWER, 39, WANG KWONG RD, KOWLOON BAY, KOWLOON",
+			"hcpAddressChiT": "九龍九龍灣宏光道39號宏天廣場99樓",
+			"hcpAddressChiS": "九龙九龙湾宏光道39号宏天广场99楼",
+			"hcpAddressLatLong": null,
+			"hcpTelephone": "87654321",
+			"hcpEmail": null,
+			"hcpWebsite": null,
+			"hciInfo": [
+				{
+					"hciId": 1111111111,
+					"hciNameEng": "TAI MAN MEDICAL CENTRE",
+					"hciNameChiT": "大文醫療中心",
+					"hciNameChiS": "大文医疗中心",
+					"hciAddressEng": "18/F, ASIA STANDARD TOWER, 59-65, QUEEN'S RD C, CENTRAL, HONG KONG",
+					"hciAddressChiT": "香港中環皇后大道中59-65號泛海大廈18樓",
+					"hciAddressChiS": "香港中环皇后大道中59-65号泛海大厦18楼",
+					"hciAddressLatLong": null,
+					"hciTelephone": "12345678",
+					"hciEmail": null,
+					"hciWebsite": null,
+					"hciLink": {
+							"href": "/hci?hcpId_like=2000000001&hciId_like=1111111111",
+							"rel": "showHciDetail"
+					}
+				},
+				{	
+					"hciId": 2222222222,
+					"hciNameEng": "TAI MAN CLINIC(DISCOVERY BAY)",
+					"hciNameChiT": "大文診所(愉景灣)",
+					"hciNameChiS": "大文诊所(愉景湾)",
+					"hciAddressEng": "HOP 108, BLK B, DISCOVERY BAY PLAZA, DISCOVERY BAY, NEW TERRITORIES",
+					"hciAddressChiT": "新界愉景灣愉景灣愉景廣場B座108舖",
+					"hciAddressChiS": "新界愉景湾愉景湾愉景广场B座108铺",
+					"hciAddressLatLong": "22.295838, 114.016425",
+					"hciTelephone": "12345678",
+					"hciEmail": null,
+					"hciWebsite": "http://ehealth.gov.hk",
+					"hciLink": {
+							"href": "/hci?hcpId_like=2000000001&hciId_like=2222222222",
+							"rel": "showHciDetail"
+					}
+				}
+			]
+		}
+	]
+}

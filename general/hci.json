@@ -1,0 +1,214 @@
+{
+	"hci": [
+		{
+			"hcpId": 1000000001,
+			"hciId": 1234567890,
+			"hcpNameEng": "TAI MAN HOSPITAL",
+			"hcpNameChiT": "大文醫院",
+			"hcpNameChiS": "大文医院",
+			"hcpOfficalNameEng": "TAI MAN HOSPITAL",
+			"hcpOfficalNameChiT": "大文醫院",
+			"hcpOfficalNameChiS": "大文医院",
+			"hcpShortNameEng": null,
+			"hcpShortNameChiT": null,
+			"hcpShortNameChiS": null,
+			"hcpAddressEng": "UNIT H, 39/F, COS CENTRE, 56, TSUN YIP STREET, KWUN TONG, KOWLOON",
+			"hcpAddressChiT": "九龍觀塘駿業街56號中海日升中心39樓H室",
+			"hcpAddressChiS": "九龙观塘骏业街56号中海日升中心39楼H室",
+			"hcpAddressLatLong": "22.283626, 114.157121",
+			"hcpTelephone": "12345678",
+			"hcpEmail": null,
+			"hcpWebsite": null,
+			"hcpDataUpload": null,
+			"hciNameEng": "TAI MAN HOSPITAL",
+			"hciNameChiT": "大文醫院",
+			"hciNameChiS": "大文医院",
+			"hciOfficalNameEng": "TAI MAN HOSPITAL",
+			"hciOfficalNameChiT": "大文醫院",
+			"hciOfficalNameChiS": "大文医院",
+			"hciShortNameEng": null,
+			"hciShortNameChiT": null,
+			"hciShortNameChiS": null,
+			"hciAddressEng": "UNIT H, 39/F, COS CENTRE, 56, TSUN YIP STREET, KWUN TONG, KOWLOON",
+			"hciAddressChiT": "九龍觀塘駿業街56號中海日升中心39樓H室",
+			"hciAddressChiS": "九龙观塘骏业街56号中海日升中心39楼H室",
+			"hciAddressLatLong": "22.283626, 114.157121",
+			"hciTelephone": "12345678",
+			"hciEmail": "ctm@test.com",
+			"hciWebsite": "http://ehealth.gov.hk",
+			"openingHourMon": "(09:00-13:00)(14:00-20:00)",
+			"openingHourTue": "(09:00-13:00)(14:00-20:00)",
+			"openingHourWed": "(09:00-13:00)(14:00-20:00)",
+			"openingHourThu": "24 hours",
+			"openingHourFri": "No Service",
+			"openingHourSat": "No Service",
+			"openingHourSun": "(09:00-13:00)(14:00-20:00)(21:00-22:00)",
+			"openingHourPub": "(09:00-13:00)",
+			"openingHrRemarkEng": "No service on Chinese New Year",
+			"openingHrRemarkChiT": "農曆新年暫停服務",
+			"openingHrRemarkChiS": "农历新年暂停服务",
+			"rcInd": "1",
+			"newBornInd": "1",
+			"hcpLastUpdDate": "23 March 2018",
+			"hciLastUpdDate": "23 March 2018",
+			"progResult": [
+				{
+					"progName": "GOPC",
+					"link": {
+						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=GOPC",
+						"rel": "getGopcProfByHci"
+					}
+				},
+				{
+					"progName": "CSP",
+					"link": {
+						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=CSP",
+						"rel": "getCspProfByHci"
+					}
+				},
+				{
+					"progName": "COLON",
+					"link": {
+						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=COLON",
+						"rel": "getColonProfByHci"
+					}
+				},
+				{
+					"progName": "CRC",
+					"link": {
+						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=CRC",
+						"rel": "getCrcProfByHci"
+					}
+				},
+				{
+					"progName": "RADI",
+					"link": {
+						"href": "/ppphci?hcpId_like=1000000001&hciId_like=1234567890&prog=RADI",
+						"rel": "getRadiProfByHci"
+					}
+				}
+			]
+		},
+		{
+			"hcpId": 2000000001,
+			"hciId": 1111111111,
+			"hcpNameEng": "TAI MAN MEDICIAL GROUP",
+			"hcpNameChiT": "大文醫療集團",
+			"hcpNameChiS": "大文医疗集团",
+			"hcpOfficalNameEng": "TAI MAN MEDICIAL GROUP",
+			"hcpOfficalNameChiT": "大文醫療集團",
+			"hcpOfficalNameChiS": "大文医疗集团",
+			"hcpShortNameEng": "TMMG",
+			"hcpShortNameChiT": "大文集團",
+			"hcpShortNameChiS": "大文集团",
+			"hcpAddressEng": "3/F, SKYLINE TOWER, 39, WANG KWONG RD, KOWLOON BAY, KOWLOON",
+			"hcpAddressChiT": "九龍九龍灣宏光道39號宏天廣場3樓",
+			"hcpAddressChiS": "九龙九龙湾宏光道39号宏天广场3楼",
+			"hcpAddressLatLong": null,
+			"hcpTelephone": "12345678",
+			"hcpEmail": "ctmgroup@test.com",
+			"hcpDataUpload": ["ADR", "AL1"],
+			"hcpWebsite": "Not Available",
+			"hciNameEng": "TAI MAN MEDICAL CENTRE",
+			"hciNameChiT": "大文醫療中心",
+			"hciNameChiS": "大文医疗中心",
+			"hciOfficalNameEng": "TAI MAN MEDICIAL GROUP",
+			"hciOfficalNameChiT": "大文醫療集團",
+			"hciOfficalNameChiS": "大文医疗集团",
+			"hciShortNameEng": "TMMC",
+			"hciShortNameChiT": "大文中心",
+			"hciShortNameChiS": "大文中心",
+			"hciAddressEng": "18/F, ASIA STANDARD TOWER, 59-65, QUEEN'S RD C, CENTRAL, HONG KONG",
+			"hciAddressChiT": "香港中環皇后大道中59-65號泛海大廈18樓",
+			"hciAddressChiS": "香港中环皇后大道中59-65号泛海大厦18楼",
+			"hciAddressLatLong": null,
+			"hciTelephone": "12345678",
+			"hciEmail": "ctm@test.com",
+			"hciWebsite": null,
+			"openingHourMon": "(09:00-13:00)(14:00-20:00)",
+			"openingHourTue": "(09:00-13:00)(14:00-20:00)",
+			"openingHourWed": "(09:00-13:00)(14:00-20:00)",
+			"openingHourThu": "24 hours",
+			"openingHourFri": "No Service",
+			"openingHourSat": "No Service",
+			"openingHourSun": "(09:00-13:00)(14:00-20:00)(21:00-22:00)",
+			"openingHourPub": "(09:00-13:00)",
+			"openingHrRemarkEng": "No service on Chinese New Year",
+			"openingHrRemarkChiT": "農曆新年暫停服務",
+			"openingHrRemarkChiS": "农历新年暂停服务",
+			"rcInd": "1",
+			"newBornInd": "0",
+			"hcpLastUpdDate": "1 May 2018",
+			"hciLastUpdDate": "1 May 2018",
+			"progResult": [
+				{
+					"progName": "GOPC",
+					"link": {
+						"href": "/pppdoctor?hcpId_like=2000000001&hciId_like=1111111111&prog=GOPC",
+						"rel": "getGopcProfByHci"
+					}
+				},
+				{
+					"progName": "CRC",
+					"link": {
+						"href": "/pppdoctor?hcpId_like=2000000001&hciId_like=1111111111&prog=CRC",
+						"rel": "getCrcProfByHci"
+					}
+				}
+			]
+		},
+		{
+			"hcpId": 2000000001,
+			"hciId": 2222222222,
+			"hcpNameEng": "TAI MAN MEDICIAL GROUP",
+			"hcpNameChiT": "大文醫療集團",
+			"hcpNameChiS": "大文医疗集团",
+			"hcpOfficalNameEng": "TAI MAN MEDICIAL GROUP",
+			"hcpOfficalNameChiT": "大文醫療集團",
+			"hcpOfficalNameChiS": "大文医疗集团",
+			"hcpShortNameEng": "TMMG",
+			"hcpShortNameChiT": "大文集團",
+			"hcpShortNameChiS": "大文集团",
+			"hcpAddressEng": "3/F, SKYLINE TOWER, 39, WANG KWONG RD, KOWLOON BAY, KOWLOON",
+			"hcpAddressChiT": "九龍九龍灣宏光道39號宏天廣場3樓",
+			"hcpAddressChiS": "九龙九龙湾宏光道39号宏天广场3楼",
+			"hcpAddressLatLong": null,
+			"hcpTelephone": "12345678",
+			"hcpEmail": "ctmgroup@test.com",
+			"hcpWebsite": "Not Available",
+			"hcpDataUpload": ["ADR", "AL1", "ENCTR", "IMMU"],
+			"hciNameEng": "TAI MAN CLINIC(DISCOVERY BAY)",
+			"hciNameChiT": "大文診所(愉景灣)",
+			"hciNameChiS": "大文诊所(愉景湾)",
+			"hciOfficalNameEng": "TAI MAN MEDICIAL GROUP",
+			"hciOfficalNameChiT": "大文醫療集團",
+			"hciOfficalNameChiS": "大文医疗集团",
+			"hciShortNameEng": "TMC(DISCOVERY BAY)",
+			"hciShortNameChiT": "大文(愉景灣)",
+			"hciShortNameChiS": "大文(愉景湾)",
+			"hciAddressEng": "HOP 108, BLK B, DISCOVERY BAY PLAZA, DISCOVERY BAY, NEW TERRITORIES",
+			"hciAddressChiT": "新界愉景灣愉景灣愉景廣場B座108舖",
+			"hciAddressChiS": "新界愉景湾愉景湾愉景广场B座108铺",
+			"hciAddressLatLong": "22.295838, 114.016425",
+			"hciTelephone": "12345678",
+			"hciEmail": null,
+			"hciWebsite": null,
+			"openingHourMon": "(09:00-13:00)(14:00-20:00)",
+			"openingHourTue": "(09:00-13:00)(14:00-20:00)",
+			"openingHourWed": "(09:00-13:00)(14:00-20:00)",
+			"openingHourThu": "24 hours",
+			"openingHourFri": "No Service",
+			"openingHourSat": "No Service",
+			"openingHourSun": "(09:00-13:00)(14:00-20:00)(21:00-22:00)",
+			"openingHourPub": "(09:00-13:00)",
+			"openingHrRemarkEng": "No service on Chinese New Year",
+			"openingHrRemarkChiT": "農曆新年暫停服務",
+			"openingHrRemarkChiS": "农历新年暂停服务",
+			"rcInd": "0",
+			"newBornInd": "0",
+			"hcpLastUpdDate": "23 May 2018",
+			"hciLastUpdDate": "23 May 2018",
+			"progResult": null
+		}
+	]
+}

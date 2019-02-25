@@ -1,0 +1,94 @@
+{
+	"ehrdoctor": [
+		{
+			"profId": "RMP-M00001",
+			"regNo": "M00001",
+			"typeOfProf": "Registered Medical Practitioners",
+			"profNameEng": "Chan Tai Man",
+			"profNameChiT": "陳大文",
+			"profNameChiS": "陈大文",
+			"hcpInfo": [
+				{
+					"hcpId": 1000000001,
+					"hcpNameEng": "TAI MAN HOSPITAL",
+					"hcpNameChiT": "大文醫院",
+					"hcpNameChiS": "大文医院",
+					"hcpLink": {
+						"href": "/hcp?hcpId_like=1000000001",
+						"rel": "getHcpDetail"
+					}
+				},
+				{
+					"hcpId": 2000000001,
+					"hcpNameEng": "TAI MAN MEDICIAL GROUP",
+					"hcpNameChiT": "大文醫療集團",
+					"hcpNameChiS": "大文医疗集团",
+					"hcpLink": {
+						"href": "/hcp?hcpId_like=2000000001",
+						"rel": "getHcpDetail"
+					}
+				}
+			]
+		},
+		{
+			"profId": "RMP-M00004",
+			"regNo": "M00004",
+			"typeOfProf": "Registered Medical Practitioners",
+			"profNameEng": "Wong Tai Man",
+			"profNameChiT": "黃大文",
+			"profNameChiS": "黃大文",
+			"hcpInfo": [
+				{
+					"hcpId": 1000000001,
+					"hcpNameEng": "TAI MAN HOSPITAL",
+					"hcpNameChiT": "大文醫院",
+					"hcpNameChiS": "大文医院",
+					"hcpLink": {
+						"href": "/hcp?hcpId_like=1000000001",
+						"rel": "getHcpDetail"
+					}
+				}
+			]
+		},
+		{
+			"profId": "RMP-M00005",
+			"regNo": "M00005",
+			"typeOfProf": "Registered Medical Practitioners",
+			"profNameEng": "Yip Tai Man",
+			"profNameChiT": "葉大文",
+			"profNameChiS": "叶大文",
+			"hcpInfo": [
+				{
+					"hcpId": 2000000001,
+					"hcpNameEng": "TAI MAN MEDICIAL GROUP",
+					"hcpNameChiT": "大文醫療集團",
+					"hcpNameChiS": "大文医疗集团",
+					"hcpLink": {
+						"href": "/hcp?hcpId_like=2000000001",
+						"rel": "getHcpDetail"
+					}
+				}
+			]
+		},
+		{
+			"profId": "RMP-M00006",
+			"regNo": "M00006",
+			"typeOfProf": "Registered Medical Practitioners",
+			"profNameEng": "Li Tai Man",
+			"profNameChiT": "李大文",
+			"profNameChiS": "李大文",
+			"hcpInfo": [
+				{
+					"hcpId": 2000000001,
+					"hcpNameEng": "TAI MAN MEDICIAL GROUP",
+					"hcpNameChiT": "大文醫療集團",
+					"hcpNameChiS": "大文医疗集团",
+					"hcpLink": {
+						"href": "/hcp?hcpId_like=2000000001",
+						"rel": "getHcpDetail"
+					}
+				}
+			]
+		}
+	]
+}
