@@ -51,12 +51,19 @@
 			"newBornInd": "1",
 			"hcpLastUpdDate": "23 March 2018",
 			"hciLastUpdDate": "23 March 2018",
-			"progResult": [
+			"progResult":[
 				{
 					"progName": "CRC",
 					"link": {
-						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=CRC",
-						"rel": "getCrcProfByHci"
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=CRC",
+						"rel": "getCrcDetail"
+					}
+				},
+				{
+					"progName": "HCVS",
+					"link": {
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=HCVS",
+						"rel": "getHcvsDetail"
 					}
 				}
 			]
