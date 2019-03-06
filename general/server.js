@@ -3,7 +3,7 @@ const server = jsonServer.create();
 
 const middlewares = jsonServer.defaults();
 const router = jsonServer.router(require("./patientPortalData.js")());
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 8005;
 
 
 server.use(middlewares);

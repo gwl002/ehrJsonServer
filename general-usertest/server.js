@@ -3,7 +3,7 @@ const server = jsonServer.create();
 
 const middlewares = jsonServer.defaults();
 const router = jsonServer.router(require("./usabilityTest.js")());
-const port = process.env.PORT || 8003;
+const port = process.env.PORT || 8000;
 
 
 server.use(middlewares);
