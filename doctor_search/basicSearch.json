@@ -1,10 +1,10 @@
 {	
 	"basicSearch": [
 	{
-		"id": "TAI MAN",
-		"ehrssProfCnt": 4,
-		"hcpHslCnt": 3,
-		"otherProfCnt": 2,
+		"id": "CHAN TAI",
+		"ehrssProfCnt": 3,
+		"hcpHslCnt": 1,
+		"otherProfCnt": 0,
 		"ehrssProfResultList": [
 		{
 			"profId": "RMP-M00001",
@@ -16,47 +16,26 @@
 			"hcpInfo": [
 				{
 					"hcpId": 1000000001,
-					"hcpNameEng": "TAI MAN HOSPITAL",
-					"hcpNameChiT": "大文醫院",
-					"hcpNameChiS": "大文医院",
+					"hcpNameEng": "Dr CHAN Tai Man Clinic",
+					"hcpNameChiT": "陳大文醫生醫務所",
+					"hcpNameChiS": "陈大文医生医务所",
 					"hcpLink": {
 						"href": "/hcp?hcpId_like=1000000001",
 						"rel": "getHcpDetail"
 					}
 				},
 				{
-					"hcpId": 2000000001,
-					"hcpNameEng": "TAI MAN MEDICIAL GROUP",
-					"hcpNameChiT": "大文醫療集團",
-					"hcpNameChiS": "大文医疗集团",
+					"hcpId": 1000000002,
+					"hcpNameEng": "ALLIANCE MEDICAL CENTRE",
+					"hcpNameChiT": "安匯醫務中心",
+					"hcpNameChiS": "安汇医务中心",
 					"hcpLink": {
-						"href": "/hcp?hcpId_like=2000000001",
+						"href": "/hcp?hcpId_like=1000000002",
 						"rel": "getHcpDetail"
 					}
 				}
 			],
 			"progResult": [
-				{
-					"progName": "GOPC",
-					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=GOPC",
-						"rel": "getGopcDetail"
-					}
-				},
-				{
-					"progName": "CSP",
-					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=CSP",
-						"rel": "getCspDetail"
-					}
-				},
-				{
-					"progName": "COLON",
-					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=COLON",
-						"rel": "getColonDetail"
-					}
-				},
 				{
 					"progName": "CRC",
 					"link": {
@@ -65,87 +44,50 @@
 					}
 				},
 				{
-					"progName": "PCD",
-					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=PCD",
-						"rel": "getPcdDetail"
-					}
-				},
-				{
 					"progName": "HCVS",
 					"link": {
 						"href": "/pppdoctor?profId_like=RMP-M00001&prog=HCVS",
 						"rel": "getHcvsDetail"
 					}
-				},
-				{
-					"progName": "VSS",
-					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00001&prog=VSS",
-						"rel": "getVssDetail"
-					}
 				}
 			]
 		},
 		{
-			"profId": "RMP-M00004",
-			"regNo": "M00004",
+			"profId": "RMP-M00002",
+			"regNo": "M00002",
 			"typeOfProf": "Registered Medical Practitioners",
-			"providerNameEng": "Wong Tai Man",
-			"providerNameChiT": "黃大文",
-			"providerNameChiS": "黃大文",
+			"providerNameEng": "Chan Tai Shan",
+			"providerNameChiT": "陳大山",
+			"providerNameChiS": "陈大山",
 			"hcpInfo": [
 				{
-					"hcpId": 1000000001,
-					"hciId": 1234567890,
-					"hcpNameEng": "TAI MAN HOSPITAL",
-					"hcpNameChiT": "大文醫院",
-					"hcpNameChiS": "大文医院",
+					"hcpId": 1000000003,
+					"hcpNameEng": "ST. TERESA's HOSPITAL",
+					"hcpNameChiT": "聖德肋撒醫院",
+					"hcpNameChiS": "圣德肋撒医院",
 					"hcpLink": {
-						"href": "/hcp?hcpId_like=1000000001",
+						"href": "/hcp?hcpId_like=1000000003",
 						"rel": "getHcpDetail"
 					}
 				}
 			],
-			"progResult": [
-				{
-					"progName": "GOPC",
-					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00004&prog=GOPC",
-						"rel": "getGopcDetail"
-					}
-				},
-				{
-					"progName": "CSP",
-					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00004&prog=CSP",
-						"rel": "getCspDetail"
-					}
-				},
-				{
-					"progName": "COLON",
-					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00004&prog=COLON",
-						"rel": "getColonDetail"
-					}
-				}
-			]
+			"progResult": null
 		},
 		{
-			"profId": "RMP-M00005",
-			"regNo": "M00005",
+			"profId": "RMP-M00003",
+			"regNo": "M00003",
 			"typeOfProf": "Registered Medical Practitioners",
-			"providerNameEng": "Yip Tai Man",
-			"providerNameChiT": "葉大文",
-			"providerNameChiS": "叶大文",
+			"providerNameEng": "Chan Man Tai",
+			"providerNameChiT": "陳文大",
+			"providerNameChiS": "陈文大",
 			"hcpInfo": [
 				{
-					"hcpId": 2000000001,
-					"hcpNameEng": "TAI MAN MEDICIAL GROUP",
-					"hcpNameChiT": "大文醫療集團",
-					"hcpNameChiS": "大文医疗集团",
+					"hcpId": 1000000002,
+					"hcpNameEng": "ALLIANCE MEDICAL CENTRE",
+					"hcpNameChiT": "安匯醫務中心",
+					"hcpNameChiS": "安汇医务中心",
 					"hcpLink": {
-						"href": "/hcp?hcpId_like=2000000001",
+						"href": "/hcp?hcpId_like=1000000002",
 						"rel": "getHcpDetail"
 					}
 				}
@@ -154,51 +96,30 @@
 				{
 					"progName": "CRC",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00005&prog=CRC",
+						"href": "/pppdoctor?profId_like=RMP-M00003&prog=CRC",
 						"rel": "getCrcDetail"
 					}
 				},
 				{
-					"progName": "PCD",
+					"progName": "HCVS",
 					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00005&prog=PCD",
-						"rel": "getPcdDetail"
+						"href": "/pppdoctor?profId_like=RMP-M00003&prog=HCVS",
+						"rel": "getHcvsDetail"
 					}
 				}
 			]
-		},
-		{
-			"profId": "RMP-M00006",
-			"regNo": "M00006",
-			"typeOfProf": "Registered Medical Practitioners",
-			"providerNameEng": "Li Tai Man",
-			"providerNameChiT": "李大文",
-			"providerNameChiS": "李大文",
-			"hcpInfo": [
-				{
-					"hcpId": 2000000001,
-					"hcpNameEng": "TAI MAN MEDICIAL GROUP",
-					"hcpNameChiT": "大文醫療集團",
-					"hcpNameChiS": "大文医疗集团",
-					"hcpLink": {
-						"href": "/hcp?hcpId_like=2000000001",
-						"rel": "getHcpDetail"
-					}
-				}
-			],
-			"progResult": null
 		}
 		],
 		"hcpHslResultList": [
 		{
 			"hcpId": "1000000001",
 			"hciId": "1234567890",
-			"hcpNameEng": "TAI MAN HOSPITAL",
-			"hcpNameChiT": "大文醫院",
-			"hcpNameChiS": "大文医院",
-			"hciNameEng": "TAI MAN HOSPITAL",
-			"hciNameChiT": "大文醫院",
-			"hciNameChiS": "大文医院",
+			"hcpNameEng": "Dr CHAN Tai Man Clinic",
+			"hcpNameChiT": "陳大文醫生醫務所",
+			"hcpNameChiS": "陈大文医生医务所",
+			"hciNameEng": "Dr CHAN Tai Man Clinic",
+			"hciNameChiT": "陳大文醫生醫務所",
+			"hciNameChiS": "陈大文医生医务所",
 			"hcpLink": {
 				"href": "/hcp?hcpId_like=1000000001",
 				"rel": "getHciByHcp"
@@ -209,34 +130,6 @@
 			},			
 			"progResult": [
 				{
-					"progName": "RADI",
-					"link": {
-						"href": "/ppphci?hcpId_like=1000000001&hciId_like=1234567890&prog=RADI",
-						"rel": "getRadiDetail"
-					}
-				},
-				{
-					"progName": "GOPC",
-					"link": {
-						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=GOPC",
-						"rel": "getGopcDetail"
-					}
-				},
-				{
-					"progName": "CSP",
-					"link": {
-						"href": "//pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=CSP",
-						"rel": "getCspDetail"
-					}
-				},
-				{
-					"progName": "COLON",
-					"link": {
-						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=COLON",
-						"rel": "getColonDetail"
-					}
-				},
-				{
 					"progName": "CRC",
 					"link": {
 						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=CRC",
@@ -244,105 +137,9 @@
 					}
 				}
 			]
-		},
-		{
-			"hcpId": "2000000001",
-			"hciId": "1111111111",
-			"hcpNameEng": "TAI MAN MEDICIAL GROUP",
-			"hcpNameChiT": "大文醫療集團",
-			"hcpNameChiS": "大文医疗集团",
-			"hciNameEng": "TAI MAN MEDICAL CENTRE",
-			"hciNameChiT": "大文醫療中心",
-			"hciNameChiS": "大文医疗中心",
-			"hcpLink": {
-				"href": "/hcp?hcpId_like=2000000001",
-				"rel": "getHcpByHcp"
-			},
-			"hciLink": {
-				"href": "/hci?hcpId_like=2000000001&hciId_like=1111111111",
-				"rel": "getHciDetail"
-			},
-			"progResult": [
-				{
-					"progName": "CRC",
-					"link": {
-						"href": "/pppdoctor?hcpId_like=2000000001&hciId_like=1111111111&prog=CRC",
-						"rel": "getCrcDetail"
-					}
-				}
-			]
-		},
-		{
-			"hcpId": "2000000001",
-			"hciId": "2222222222",
-			"hcpNameEng": "TAI MAN MEDICIAL GROUP",
-			"hcpNameChiT": "大文醫療集團",
-			"hcpNameChiS": "大文医疗集团",
-			"hciNameEng": "TAI MAN CLINIC(DISCOVERY BAY)",
-			"hciNameChiT": "大文診所(愉景灣)",
-			"hciNameChiS": "大文诊所(愉景湾)",
-			"hcpLink": {
-				"href": "/hcp?hcpId_like=2000000001",
-				"rel": "getHcpByHcp"
-			},
-			"hciLink": {
-				"href": "/hci?hcpId_like=2000000001&hciId_like=2222222222",
-				"rel": "getHciDetail"
-			},
-			"progResult": null
 		}
 		],
-		"otherProfResultList": [
-		{
-			"profId": "CMP-M00002",
-			"regNo": "M00002",
-			"typeOfProf": "Chinese Medicine Practitioners",
-			"providerNameEng": "Chan, Tai Man",
-			"providerNameChiT": "陳大文",
-			"providerNameChiS": "陈大文",
-			"hcpLink": {				
-				"href": "/pppdoctor?profId_like=CMP-M00002",
-				"rel": "showAllHcpByProf"
-			},
-			"progResult": [
-				{
-					"progName": "HCVS",
-					"link": {
-						"href": "/pppdoctor?profId_like=CMP-M00002&prog=HCVS",
-						"rel": "getHcvsDetail"
-					}
-				}
-			]
-		},
-		{
-			"profId": "RMP-M00003",
-			"regNo": "M00003",
-			"typeOfProf": "Registered Medical Practitioners",
-			"providerNameEng": "Tse, Tai Man",
-			"providerNameChiT": "謝大文",
-			"providerNameChiS": "谢大文",
-			"hcpLink": {				
-				"href": "/pppdoctor?profId_like=RMP-M00003",
-				"rel": "showAllHcpByProf"
-			},
-			"progResult": [
-				{
-					"progName": "HCVS",
-					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00003&prog=HCVS",
-						"rel": "getHcvsDetail"
-					}
-				},
-				{
-					"progName": "VSS",
-					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00003&prog=VSS",
-						"rel": "getVssDetail"
-					}
-				}
-			]
-		}
-		]
+		"otherProfResultList": null
 	}
 	]
 }
