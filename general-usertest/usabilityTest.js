@@ -7,6 +7,6 @@ module.exports = function() {
     require('./hcp.json'),
     require('./pppdoctor.json'),
     require('./basicSearch.json'),
-    require('./ehrdoctor.json')，
+    require('./ehrdoctor.json')
     );
 };
