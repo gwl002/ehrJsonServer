@@ -1,0 +1,107 @@
+{
+	"ehrdoctor": [
+		{
+			"profId": "RMP-M00001",
+			"regNo": "M00001",
+			"typeOfProf": "Registered Medical Practitioners",
+			"providerNameEng": "Chan Tai Man",
+			"providerNameChiT": "陳大文",
+			"providerNameChiS": "陈大文",
+			"hcpInfo": [
+				{
+					"hcpId": 1000000001,
+					"hcpNameEng": "Dr CHAN Tai Man Clinic",
+					"hcpNameChiT": "陳大文醫生醫務所",
+					"hcpNameChiS": "陈大文医生医务所",
+					"hcpLink": {
+						"href": "/hcp?hcpId_like=1000000001",
+						"rel": "getHcpDetail"
+					}
+				},
+				{
+					"hcpId": 1000000002,
+					"hcpNameEng": "ALLIANCE MEDICAL CENTRE",
+					"hcpNameChiT": "安匯醫務中心",
+					"hcpNameChiS": "安汇医务中心",
+					"hcpLink": {
+						"href": "/hcp?hcpId_like=1000000002",
+						"rel": "getHcpDetail"
+					}
+				}
+			],
+			"progResult": [
+				{
+					"progName": "CRC",
+					"link": {
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=CRC",
+						"rel": "getCrcDetail"
+					}
+				},
+				{
+					"progName": "HCVS",
+					"link": {
+						"href": "/pppdoctor?profId_like=RMP-M00001&prog=HCVS",
+						"rel": "getHcvsDetail"
+					}
+				}
+			]
+		},
+		{
+			"profId": "RMP-M00002",
+			"regNo": "M00002",
+			"typeOfProf": "Registered Medical Practitioners",
+			"providerNameEng": "Chan Tai Shan",
+			"providerNameChiT": "陳大山",
+			"providerNameChiS": "陈大山",
+			"hcpInfo": [
+				{
+					"hcpId": 1000000003,
+					"hcpNameEng": "ST. TERESA's HOSPITAL",
+					"hcpNameChiT": "聖德肋撒醫院",
+					"hcpNameChiS": "圣德肋撒医院",
+					"hcpLink": {
+						"href": "/hcp?hcpId_like=1000000003",
+						"rel": "getHcpDetail"
+					}
+				}
+			],
+			"progResult": null
+		},
+		{
+			"profId": "RMP-M00003",
+			"regNo": "M00003",
+			"typeOfProf": "Registered Medical Practitioners",
+			"providerNameEng": "Chan Man Tai",
+			"providerNameChiT": "陳文大",
+			"providerNameChiS": "陈文大",
+			"hcpInfo": [
+				{
+					"hcpId": 1000000002,
+					"hcpNameEng": "ALLIANCE MEDICAL CENTRE",
+					"hcpNameChiT": "安匯醫務中心",
+					"hcpNameChiS": "安汇医务中心",
+					"hcpLink": {
+						"href": "/hcp?hcpId_like=1000000002",
+						"rel": "getHcpDetail"
+					}
+				}
+			],
+			"progResult": [
+				{
+					"progName": "CRC",
+					"link": {
+						"href": "/pppdoctor?profId_like=RMP-M00003&prog=CRC",
+						"rel": "getCrcDetail"
+					}
+				},
+				{
+					"progName": "HCVS",
+					"link": {
+						"href": "/pppdoctor?profId_like=RMP-M00003&prog=HCVS",
+						"rel": "getHcvsDetail"
+					}
+				}
+			]
+		}
+	]
+}
