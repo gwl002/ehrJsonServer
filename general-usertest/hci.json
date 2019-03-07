@@ -126,7 +126,7 @@
 						"href": "/pppdoctor?hcpId_like=1000000002&hciId_like=1111111111&prog=CRC",
 						"rel": "getCrcProfByHci"
 					}
-				}
+				},
 				{
 					"progName": "HCVS",
 					"link": {
