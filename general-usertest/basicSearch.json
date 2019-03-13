@@ -140,7 +140,7 @@
 		}
 		],
 		"otherProfResultList": null
-	}
+	},
 	{
 		"id": "陳大",
 		"ehrssProfCnt": 3,
@@ -281,7 +281,7 @@
 		}
 		],
 		"otherProfResultList": null
-	}
+	},
 	{
 		"id": "陳大文",
 		"ehrssProfCnt": 3,
@@ -401,8 +401,7 @@
 		}
 		],
 		"otherProfResultList": null
-	}
-
+	},
 	{
 		"id": "陳大文醫生醫務所",
 		"ehrssProfCnt": 3,
