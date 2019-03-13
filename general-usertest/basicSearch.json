@@ -1,7 +1,7 @@
 {	
 	"basicSearch": [
 	{
-		"id": "CHAN Tai Man",
+		"id": "CHAN TAI MAN",
 		"ehrssProfCnt": 3,
 		"hcpHslCnt": 1,
 		"otherProfCnt": 0,
@@ -283,6 +283,120 @@
 		"otherProfResultList": null
 	},
 	{
+		"id": "陳大文醫生醫務所",
+		"ehrssProfCnt": 3,
+		"hcpHslCnt": 1,
+		"otherProfCnt": 0,
+		"hcpHslResultList": [
+		{
+			"hcpId": "1000000001",
+			"hciId": "1234567890",
+			"hcpNameEng": "Dr CHAN Tai Man Clinic",
+			"hcpNameChiT": "陳大文醫生醫務所",
+			"hcpNameChiS": "陈大文医生医务所",
+			"hciNameEng": "Dr CHAN Tai Man Clinic",
+			"hciNameChiT": "陳大文醫生醫務所",
+			"hciNameChiS": "陈大文医生医务所",
+			"hcpLink": {
+				"href": "/hcp?hcpId_like=1000000001",
+				"rel": "getHciByHcp"
+			},
+			"hciLink": {
+				"href": "/hci?hcpId_like=1000000001&hciId_like=1234567890",
+				"rel": "getHciDetail"
+			},			
+			"progResult": [
+				{
+					"progName": "CRC",
+					"link": {
+						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=CRC",
+						"rel": "getCrcDetail"
+					}
+				}
+			]
+		}
+		],
+		"otherProfResultList": null
+	},
+
+	{
+		"id": "陳文大",
+		"ehrssProfCnt": 3,
+		"hcpHslCnt": 1,
+		"otherProfCnt": 0,
+		"ehrssProfResultList": [
+		{
+			"profId": "RMP-M00003",
+			"regNo": "M00003",
+			"typeOfProf": "Registered Medical Practitioners",
+			"providerNameEng": "Chan Man Tai",
+			"providerNameChiT": "陳文大",
+			"providerNameChiS": "陈文大",
+			"hcpInfo": [
+				{
+					"hcpId": 1000000002,
+					"hcpNameEng": "ALLIANCE MEDICAL CENTRE",
+					"hcpNameChiT": "安匯醫務中心",
+					"hcpNameChiS": "安汇医务中心",
+					"hcpLink": {
+						"href": "/hcp?hcpId_like=1000000002",
+						"rel": "getHcpDetail"
+					}
+				}
+			],
+			"progResult": [
+				{
+					"progName": "CRC",
+					"link": {
+						"href": "/pppdoctor?profId_like=RMP-M00003&prog=CRC",
+						"rel": "getCrcDetail"
+					}
+				},
+				{
+					"progName": "HCVS",
+					"link": {
+						"href": "/pppdoctor?profId_like=RMP-M00003&prog=HCVS",
+						"rel": "getHcvsDetail"
+					}
+				}
+			]
+		}
+		],
+		"otherProfResultList": null
+	},
+
+	{
+		"id": "陳大山",
+		"ehrssProfCnt": 3,
+		"hcpHslCnt": 1,
+		"otherProfCnt": 0,
+		"ehrssProfResultList": [
+		{
+			"profId": "RMP-M00002",
+			"regNo": "M00002",
+			"typeOfProf": "Registered Medical Practitioners",
+			"providerNameEng": "Chan Tai Shan",
+			"providerNameChiT": "陳大山",
+			"providerNameChiS": "陈大山",
+			"hcpInfo": [
+				{
+					"hcpId": 1000000003,
+					"hcpNameEng": "ST. TERESA's HOSPITAL",
+					"hcpNameChiT": "聖德肋撒醫院",
+					"hcpNameChiS": "圣德肋撒医院",
+					"hcpLink": {
+						"href": "/hcp?hcpId_like=1000000003",
+						"rel": "getHcpDetail"
+					}
+				}
+			],
+			"progResult": null
+		}
+		],
+		"otherProfResultList": null
+	},
+
+	{
 		"id": "陳大文",
 		"ehrssProfCnt": 3,
 		"hcpHslCnt": 1,
@@ -333,42 +447,6 @@
 					}
 				}
 			]
-		},
-		{
-			"profId": "RMP-M00003",
-			"regNo": "M00003",
-			"typeOfProf": "Registered Medical Practitioners",
-			"providerNameEng": "Chan Man Tai",
-			"providerNameChiT": "陳文大",
-			"providerNameChiS": "陈文大",
-			"hcpInfo": [
-				{
-					"hcpId": 1000000002,
-					"hcpNameEng": "ALLIANCE MEDICAL CENTRE",
-					"hcpNameChiT": "安匯醫務中心",
-					"hcpNameChiS": "安汇医务中心",
-					"hcpLink": {
-						"href": "/hcp?hcpId_like=1000000002",
-						"rel": "getHcpDetail"
-					}
-				}
-			],
-			"progResult": [
-				{
-					"progName": "CRC",
-					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00003&prog=CRC",
-						"rel": "getCrcDetail"
-					}
-				},
-				{
-					"progName": "HCVS",
-					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00003&prog=HCVS",
-						"rel": "getHcvsDetail"
-					}
-				}
-			]
 		}
 		],
 		"hcpHslResultList": [
@@ -401,114 +479,7 @@
 		}
 		],
 		"otherProfResultList": null
-	},
-	{
-		"id": "陳大文醫生醫務所",
-		"ehrssProfCnt": 0,
-		"hcpHslCnt": 1,
-		"otherProfCnt": 0,
-		"hcpHslResultList": [
-		{
-			"hcpId": "1000000001",
-			"hciId": "1234567890",
-			"hcpNameEng": "Dr CHAN Tai Man Clinic",
-			"hcpNameChiT": "陳大文醫生醫務所",
-			"hcpNameChiS": "陈大文医生医务所",
-			"hciNameEng": "Dr CHAN Tai Man Clinic",
-			"hciNameChiT": "陳大文醫生醫務所",
-			"hciNameChiS": "陈大文医生医务所",
-			"hcpLink": {
-				"href": "/hcp?hcpId_like=1000000001",
-				"rel": "getHciByHcp"
-			},
-			"hciLink": {
-				"href": "/hci?hcpId_like=1000000001&hciId_like=1234567890",
-				"rel": "getHciDetail"
-			},			
-			"progResult": [
-				{
-					"progName": "CRC",
-					"link": {
-						"href": "/pppdoctor?hcpId_like=1000000001&hciId_like=1234567890&prog=CRC",
-						"rel": "getCrcDetail"
-					}
-				}
-			]
-		}
-		],
-	},
-	{
-		"id": "陳大山",
-		"ehrssProfCnt": 1,
-		"hcpHslCnt": 0,
-		"otherProfCnt": 0,
-		"ehrssProfResultList": [
-		{
-			"profId": "RMP-M00002",
-			"regNo": "M00002",
-			"typeOfProf": "Registered Medical Practitioners",
-			"providerNameEng": "Chan Tai Shan",
-			"providerNameChiT": "陳大山",
-			"providerNameChiS": "陈大山",
-			"hcpInfo": [
-				{
-					"hcpId": 1000000003,
-					"hcpNameEng": "ST. TERESA's HOSPITAL",
-					"hcpNameChiT": "聖德肋撒醫院",
-					"hcpNameChiS": "圣德肋撒医院",
-					"hcpLink": {
-						"href": "/hcp?hcpId_like=1000000003",
-						"rel": "getHcpDetail"
-					}
-				}
-			],
-			"progResult": null
-		},
-		],
-	},
-	{
-		"id": "陳文大",
-		"ehrssProfCnt": 1,
-		"hcpHslCnt": 0,
-		"otherProfCnt": 0,
-		"ehrssProfResultList": [
-		{
-			"profId": "RMP-M00003",
-			"regNo": "M00003",
-			"typeOfProf": "Registered Medical Practitioners",
-			"providerNameEng": "Chan Man Tai",
-			"providerNameChiT": "陳文大",
-			"providerNameChiS": "陈文大",
-			"hcpInfo": [
-				{
-					"hcpId": 1000000002,
-					"hcpNameEng": "ALLIANCE MEDICAL CENTRE",
-					"hcpNameChiT": "安匯醫務中心",
-					"hcpNameChiS": "安汇医务中心",
-					"hcpLink": {
-						"href": "/hcp?hcpId_like=1000000002",
-						"rel": "getHcpDetail"
-					}
-				}
-			],
-			"progResult": [
-				{
-					"progName": "CRC",
-					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00003&prog=CRC",
-						"rel": "getCrcDetail"
-					}
-				},
-				{
-					"progName": "HCVS",
-					"link": {
-						"href": "/pppdoctor?profId_like=RMP-M00003&prog=HCVS",
-						"rel": "getHcvsDetail"
-					}
-				}
-			]
-		}
-		],
 	}
+
 	]
 }
