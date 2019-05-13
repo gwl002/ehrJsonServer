@@ -260,6 +260,52 @@
 			"correspondenceAddress": "99/F, TSUI FUNG BUILDING, 25 TSUI FUNG ST, WONG TAI SIN DISTRICT, KLN",
 			"accessKey": "81696972"
 		}
+	},
+	{
+		"id": 598774893500,
+		"demographicResponse": {
+			"ehrNo": "797904068212",
+			"hkId": " Q1813125",
+			"typeOfIdDoc": "ID",
+			"idDocNo": "",
+			"status": "A",
+			"deathDateInd": "",
+			"engSurname": "CHAN",
+			"engGivenName": "KIN KONG",
+			"chineseName": "陳健康",
+			"birthDate": "1950-01-01",
+			"sex": "F",
+			"mobileCountryCode": "852",
+			"mobileAreaCode": null,
+			"mobilePhoneNo": "97040021",
+			"smsPhone": "852-97040021",
+			"otherPhoneList": [{
+				"orderId": 0,
+				"otherCountryCode": "852",
+				"otherAreaCode": null,
+				"otherPhoneNo": "97040002"
+			}],
+			"email": "ptk744@serverdev.ehr.gov.hk",
+			"communicationMeans": "SMS",
+			"communicationLang": "C",
+			"accessAlertInd": "Y",
+			"correspondenceRoom": "",
+			"correspondenceFloor": "99/F",
+			"correspondenceBlock": "",
+			"correspondenceBuilding": "TSUI FUNG BUILDING",
+			"correspondenceEstate": "",
+			"correspondenceStreetNo": "25",
+			"correspondenceStreet": "TSUI FUNG ST",
+			"correspondencePostalCd": "",
+			"correspondenceState": "",
+			"correspondenceSubdistrict": "WONG TAI SIN",
+			"correspondenceDistrict": "WONG TAI SIN DISTRICT",
+			"correspondenceRegion": "KLN",
+			"correspondenceCountry": "HK",
+			"correspondenceCountryDesc": "Hong Kong, China",
+			"correspondenceAddress": "99/F, TSUI FUNG BUILDING, 25 TSUI FUNG ST, WONG TAI SIN DISTRICT, KLN",
+			"accessKey": "81696972"
+		}
 	}	
 	]
 }
