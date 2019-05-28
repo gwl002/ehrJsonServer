@@ -113,6 +113,27 @@
 			]
 		},
 		{
+			"hcpId": 5000000001,
+			"hcpNameEng": "Dr. Lee Siu Lung, Joseph Clinic GROUP",
+			"hcpNameChiT": "",
+			"hcpNameChiS": "",
+			"hcpAddressEng": "G/F, 71 SHEUNG KENG HAU VILLAGE TAI WAI SHATIN NEW TERRITORIES",
+			"hcpAddressChiT": "",
+			"hcpAddressChiS": "",
+			"hcpTelephone": "23333555",
+			"hslInfo": [{
+					"hslId": 5111111111,
+					"hslNameEng": "Dr. Lee Siu Lung, Joseph Clinic",
+					"hslNameChiT": "",
+					"hslNameChiS": "",
+					"hslAddressEng": "G/F, 71 SHEUNG KENG HAU VILLAGE TAI WAI SHATIN NEW TERRITORIES",
+					"hslAddressChiT": "",
+					"hslAddressChiS": "",
+					"hslTelephone": "12345678"
+				}
+			]
+		},
+		{
 			"token": "44072fb20fbe38322b5e67a7e780978e20abbc80"
 		}
 	]
