@@ -1,0 +1,251 @@
+{
+	"dr-search_result_10": {
+		"ehrssProfCnt": 2,
+		"hcpCnt": 0,
+		"hslCnt": 0,
+		"otherProfCnt": 0,
+		"ehrssProfResultList": [{
+			"profId": "RMP-M12339",
+			"profCateCd": "RMP",
+			"profNameEng": "CHENG, WILLIAM KIN KEUNG",
+			"profNameChiT": "鄭偉強",
+			"hslInfo": [{
+				"hcpId": "9265486345",
+				"hciId": "9000000004",
+				"nameEng": "DRS ANDERSON & PARTNERS (CENTRAL-ENTERTAINMENT BUILDING)",
+				"nameChiT": "晏打臣醫生醫務所 (中環-娛樂行)",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000004",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "9265486345",
+				"hciId": "9000000008",
+				"nameEng": "Quality Healthcare Medical Centre",
+				"nameChiT": "卓健醫療中心",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000008",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "9265486345",
+				"hciId": "9000000001",
+				"nameEng": "QUALITY HEALTHCARE MEDICAL CENTRE LIMITED",
+				"nameChiT": "卓健醫療體檢中心有限公司",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000001",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "9265486345",
+				"hciId": "9000000003",
+				"nameEng": "QUALITY HEALTHCARE MEDICAL CENTRE (TUEN MUN-PARKLANE SQUARE)",
+				"nameChiT": "卓健醫療中心 (屯門-栢麗廣場)",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000003",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "9265486345",
+				"hciId": "9000000006",
+				"nameEng": "CENTRAL MEDICAL DIAGNOSTIC CENTRE (CENTRAL)",
+				"nameChiT": "宏康醫學診斷中心 (中環)",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000006",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "9265486345",
+				"hciId": "9000000005",
+				"nameEng": "QUALITY HEALTHCARE MEDICAL CENTRE (TSIM SHA TSUI-HONG KONG PACIFIC CENTRE)",
+				"nameChiT": "卓健醫療中心 (尖沙咀-亞太中心)",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000005",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "9265486345",
+				"hciId": "9000000007",
+				"nameEng": "QUALITY HEALTHCARE MEDICAL CENTRE (SAN PO KONG)",
+				"nameChiT": "卓健醫療中心 (新蒲崗- 采頤花園)",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000007",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "9265486345",
+				"hciId": "9000000009",
+				"nameEng": "Quality Healthcare Medical Centre",
+				"nameChiT": "卓健醫療中心",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000009",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "9265486345",
+				"hciId": "9000000002",
+				"nameEng": "QUALITY HEALTHCARE MEDICAL CENTRE (DISCOVERY BAY-DISCOVERY BAY PLAZA)",
+				"nameChiT": "卓健醫療中心 (愉景灣-愉景廣場)",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000002",
+					"rel": "getHciDetail"
+				}
+			}],
+			"progResult": [{
+				"profId": "RMP-M12339",
+				"progName": "PPP_GOPC",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12339/PPP_GOPC",
+					"rel": "getProfProg"
+				}
+			},
+			{
+				"profId": "RMP-M12339",
+				"progName": "HCVS",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12339/HCVS",
+					"rel": "getProfProg"
+				}
+			}]
+		},
+		{
+			"profId": "RMP-M12329",
+			"profCateCd": "RMP",
+			"profNameEng": "CHEUNG, KEVIN MAN KEI",
+			"profNameChiT": "張文基",
+			"hslInfo": [{
+				"hcpId": "9265486345",
+				"hciId": "9000000004",
+				"nameEng": "DRS ANDERSON & PARTNERS (CENTRAL-ENTERTAINMENT BUILDING)",
+				"nameChiT": "晏打臣醫生醫務所 (中環-娛樂行)",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000004",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "9265486345",
+				"hciId": "9000000008",
+				"nameEng": "Quality Healthcare Medical Centre",
+				"nameChiT": "卓健醫療中心",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000008",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "9265486345",
+				"hciId": "9000000001",
+				"nameEng": "QUALITY HEALTHCARE MEDICAL CENTRE LIMITED",
+				"nameChiT": "卓健醫療體檢中心有限公司",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000001",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "9265486345",
+				"hciId": "9000000003",
+				"nameEng": "QUALITY HEALTHCARE MEDICAL CENTRE (TUEN MUN-PARKLANE SQUARE)",
+				"nameChiT": "卓健醫療中心 (屯門-栢麗廣場)",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000003",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "9265486345",
+				"hciId": "9000000006",
+				"nameEng": "CENTRAL MEDICAL DIAGNOSTIC CENTRE (CENTRAL)",
+				"nameChiT": "宏康醫學診斷中心 (中環)",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000006",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "9265486345",
+				"hciId": "9000000005",
+				"nameEng": "QUALITY HEALTHCARE MEDICAL CENTRE (TSIM SHA TSUI-HONG KONG PACIFIC CENTRE)",
+				"nameChiT": "卓健醫療中心 (尖沙咀-亞太中心)",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000005",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "9265486345",
+				"hciId": "9000000007",
+				"nameEng": "QUALITY HEALTHCARE MEDICAL CENTRE (SAN PO KONG)",
+				"nameChiT": "卓健醫療中心 (新蒲崗- 采頤花園)",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000007",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "9265486345",
+				"hciId": "9000000009",
+				"nameEng": "Quality Healthcare Medical Centre",
+				"nameChiT": "卓健醫療中心",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000009",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "9265486345",
+				"hciId": "9000000002",
+				"nameEng": "QUALITY HEALTHCARE MEDICAL CENTRE (DISCOVERY BAY-DISCOVERY BAY PLAZA)",
+				"nameChiT": "卓健醫療中心 (愉景灣-愉景廣場)",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000002",
+					"rel": "getHciDetail"
+				}
+			}],
+			"progResult": [{
+				"profId": "RMP-M12329",
+				"progName": "HCVS",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12329/HCVS",
+					"rel": "getProfProg"
+				}
+			},
+			{
+				"profId": "RMP-M12329",
+				"progName": "CRC",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12329/CRC",
+					"rel": "getProfProg"
+				}
+			},
+			{
+				"profId": "RMP-M12329",
+				"progName": "PPP_GOPC",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12329/PPP_GOPC",
+					"rel": "getProfProg"
+				}
+			}]
+		}],
+		"hcpResultList": [],
+		"hslResultList": [],
+		"otherProfResultList": [],
+		"ehrssProfStartNum": 1,
+		"ehrssProfEndNum": 10,
+		"hcpStartNum": 1,
+		"hcpEndNum": 10,
+		"hslStartNum": 1,
+		"hslEndNum": 10,
+		"otherProfStartNum": 1,
+		"otherProfEndNum": 51
+	}
+}

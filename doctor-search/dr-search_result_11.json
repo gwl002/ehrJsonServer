@@ -1,0 +1,63 @@
+{
+	"dr-search_result_11": {
+		"ehrssProfCnt": 1,
+		"hcpCnt": 0,
+		"hslCnt": 0,
+		"otherProfCnt": 0,
+		"ehrssProfResultList": [{
+			"profId": "RMP-M12341",
+			"profCateCd": "RMP",
+			"profNameEng": "CHAN, KIN CHUN",
+			"profNameChiT": "陳健進",
+			"hslInfo": [{
+				"hcpId": "7000000100",
+				"hciId": "7000000101",
+				"nameEng": "HONG KONG GASTROINTESTINAL ENDOSCOPY CENTRED",
+				"nameChiT": "香港腸胃內視鏡中心",
+				"hciLink": {
+					"href": "/dr-search/hci/7000000101",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "6000000300",
+				"hciId": "6000000301",
+				"nameEng": "KPM Health Limited",
+				"nameChiT": "九龍半島醫學有限公司",
+				"hciLink": {
+					"href": "/dr-search/hci/6000000301",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "6000000200",
+				"hciId": "6000000201",
+				"nameEng": "HONG KONG BAPTIST HOSPITAL",
+				"nameChiT": "香港浸信會醫院",
+				"hciLink": {
+					"href": "/dr-search/hci/6000000201",
+					"rel": "getHciDetail"
+				}
+			}],
+			"progResult": [{
+				"profId": "RMP-M12341",
+				"progName": "CRC",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12341/CRC",
+					"rel": "getProfProg"
+				}
+			}]
+		}],
+		"hcpResultList": [],
+		"hslResultList": [],
+		"otherProfResultList": [],
+		"ehrssProfStartNum": 1,
+		"ehrssProfEndNum": 10,
+		"hcpStartNum": 1,
+		"hcpEndNum": 10,
+		"hslStartNum": 1,
+		"hslEndNum": 10,
+		"otherProfStartNum": 1,
+		"otherProfEndNum": 51
+	}
+}

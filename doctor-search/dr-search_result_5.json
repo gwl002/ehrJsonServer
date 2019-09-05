@@ -1,0 +1,88 @@
+{
+	"dr-search_result_5": {
+		"ehrssProfCnt": 0,
+		"hcpCnt": 1,
+		"hslCnt": 3,
+		"otherProfCnt": 0,
+		"ehrssProfResultList": [],
+		"hcpResultList": [{
+			"hcpId": "1709602281",
+			"nameEng": "NEO-HEALTH (HK) LIMITED",
+			"nameChiT": "創健醫療(香港)有限公司",
+			"progResult": null,
+			"hcpLink": {
+				"href": "/dr-search/hcp/1709602281",
+				"rel": "getHcpDetail"
+			},
+			"hslInfo": [{
+				"hcpId": "1709602281",
+				"hciId": "1000000101",
+				"nameEng": "NEO-HEALTH (HK) LIMITED",
+				"nameChiT": "創健醫療(香港)有限公司",
+				"hciLink": {
+					"href": "/dr-search/hci/1000000101",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "1709602281",
+				"hciId": "1000000103",
+				"nameEng": "NEO REPRODUCTIVE HEALTH CENTRE",
+				"nameChiT": "創健生育健康中心",
+				"hciLink": {
+					"href": "/dr-search/hci/1000000103",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "1709602281",
+				"hciId": "1000000102",
+				"nameEng": "NEO-HEALTH SCREENING & SPECIALIST CENTRE",
+				"nameChiT": "創健體檢及專科中心",
+				"hciLink": {
+					"href": "/dr-search/hci/1000000102",
+					"rel": "getHciDetail"
+				}
+			}]
+		}],
+		"hslResultList": [{
+			"hcpId": "1709602281",
+			"hciId": "1000000101",
+			"nameEng": "NEO-HEALTH (HK) LIMITED",
+			"nameChiT": "創健醫療(香港)有限公司",
+			"hciLink": {
+				"href": "/dr-search/hci/1000000101",
+				"rel": "getHciDetail"
+			}
+		},
+		{
+			"hcpId": "1709602281",
+			"hciId": "1000000102",
+			"nameEng": "NEO-HEALTH SCREENING & SPECIALIST CENTRE",
+			"nameChiT": "創健體檢及專科中心",
+			"hciLink": {
+				"href": "/dr-search/hci/1000000102",
+				"rel": "getHciDetail"
+			}
+		},
+		{
+			"hcpId": "1709602281",
+			"hciId": "1000000103",
+			"nameEng": "NEO REPRODUCTIVE HEALTH CENTRE",
+			"nameChiT": "創健生育健康中心",
+			"hciLink": {
+				"href": "/dr-search/hci/1000000103",
+				"rel": "getHciDetail"
+			}
+		}],
+		"otherProfResultList": [],
+		"ehrssProfStartNum": 1,
+		"ehrssProfEndNum": 10,
+		"hcpStartNum": 1,
+		"hcpEndNum": 10,
+		"hslStartNum": 1,
+		"hslEndNum": 10,
+		"otherProfStartNum": 1,
+		"otherProfEndNum": 51
+	}
+}

@@ -1,0 +1,74 @@
+{
+	"dr-search_result_6": {
+		"ehrssProfCnt": 1,
+		"hcpCnt": 0,
+		"hslCnt": 0,
+		"otherProfCnt": 1,
+		"ehrssProfResultList": [{
+			"profId": "RMP-M12323",
+			"profCateCd": "RMP",
+			"profNameEng": "AU, CHI LAP",
+			"profNameChiT": "區志立",
+			"hslInfo": [{
+				"hcpId": "5359387550",
+				"hciId": "5000000101",
+				"nameEng": "DR SIMON C. L. AU",
+				"nameChiT": "區志立醫生",
+				"hciLink": {
+					"href": "/dr-search/hci/5000000101",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "2741529383",
+				"hciId": "2000000201",
+				"nameEng": "HOSTFIELD MEDICAL CENTRE",
+				"nameChiT": "浩康醫療中心",
+				"hciLink": {
+					"href": "/dr-search/hci/2000000201",
+					"rel": "getHciDetail"
+				}
+			}],
+			"progResult": [{
+				"profId": "RMP-M12323",
+				"progName": "HCVS",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12323/HCVS",
+					"rel": "getProfProg"
+				}
+			},
+			{
+				"profId": "RMP-M12323",
+				"progName": "PPP_GOPC",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12323/PPP_GOPC",
+					"rel": "getProfProg"
+				}
+			}]
+		}],
+		"hcpResultList": [],
+		"hslResultList": [],
+		"otherProfResultList": [{
+			"progName": "HCVS",
+			"profId": "RMP-M12323",
+			"profCateCd": "RMP",
+			"profNameEng": "Au Chi Lap",
+			"profNameChiT": "區志立",
+			"clinicId": "EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0tlmn==-1",
+			"clinicNameEng": "Dr Simon C. L. Au",
+			"clinicNameChiT": "區志立醫生",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12323/HCVS/EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0tlmn==-1",
+				"rel": "getProfProgClinic"
+			}
+		}],
+		"ehrssProfStartNum": 1,
+		"ehrssProfEndNum": 10,
+		"hcpStartNum": 1,
+		"hcpEndNum": 10,
+		"hslStartNum": 1,
+		"hslEndNum": 10,
+		"otherProfStartNum": 1,
+		"otherProfEndNum": 51
+	}
+}

@@ -1,0 +1,75 @@
+{
+	"dr-search_result_14": {
+		"ehrssProfCnt": 0,
+		"hcpCnt": 1,
+		"hslCnt": 2,
+		"otherProfCnt": 0,
+		"ehrssProfResultList": [],
+		"hcpResultList": [{
+			"hcpId": "3726405388",
+			"nameEng": "The University of Hong Kong",
+			"nameChiT": "香港大學",
+			"progResult": [{
+				"hcpId": "3726405388",
+				"progName": "PPP_RAD",
+				"link": {
+					"href": "/dr-search/hcp/3726405388/PPP_RAD",
+					"rel": "getHcpProg"
+				}
+			}],
+			"hcpLink": {
+				"href": "/dr-search/hcp/3726405388",
+				"rel": "getHcpDetail"
+			},
+			"hslInfo": [{
+				"hcpId": "3726405388",
+				"hciId": "3000000102",
+				"nameEng": "MRI/Ultrasound Unit, Diagnostic Radiology, The University of Hong Kong",
+				"nameChiT": "香港大學 - 放射診斷學系 - 磁力共振/超音波掃描部",
+				"hciLink": {
+					"href": "/dr-search/hci/3000000102",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "3726405388",
+				"hciId": "3000000103",
+				"nameEng": "PET/CT Unit, Diagnostic Radiology, The University of Hong Kong",
+				"nameChiT": "香港大學 - 放射診斷學系 - 正電子電腦掃描部",
+				"hciLink": {
+					"href": "/dr-search/hci/3000000103",
+					"rel": "getHciDetail"
+				}
+			}]
+		}],
+		"hslResultList": [{
+			"hcpId": "3726405388",
+			"hciId": "3000000102",
+			"nameEng": "MRI/Ultrasound Unit, Diagnostic Radiology, The University of Hong Kong",
+			"nameChiT": "香港大學 - 放射診斷學系 - 磁力共振/超音波掃描部",
+			"hciLink": {
+				"href": "/dr-search/hci/3000000102",
+				"rel": "getHciDetail"
+			}
+		},
+		{
+			"hcpId": "3726405388",
+			"hciId": "3000000103",
+			"nameEng": "PET/CT Unit, Diagnostic Radiology, The University of Hong Kong",
+			"nameChiT": "香港大學 - 放射診斷學系 - 正電子電腦掃描部",
+			"hciLink": {
+				"href": "/dr-search/hci/3000000103",
+				"rel": "getHciDetail"
+			}
+		}],
+		"otherProfResultList": [],
+		"ehrssProfStartNum": 1,
+		"ehrssProfEndNum": 10,
+		"hcpStartNum": 1,
+		"hcpEndNum": 10,
+		"hslStartNum": 1,
+		"hslEndNum": 10,
+		"otherProfStartNum": 1,
+		"otherProfEndNum": 51
+	}
+}

@@ -1,0 +1,85 @@
+{
+	"dr-search_result_13": {
+		"ehrssProfCnt": 0,
+		"hcpCnt": 1,
+		"hslCnt": 2,
+		"otherProfCnt": 0,
+		"ehrssProfResultList": [],
+		"hcpResultList": [{
+			"hcpId": "8000000000",
+			"nameEng": "HAVEN OF HOPE CHRISTIAN SERVICE",
+			"nameChiT": "基督教靈實協會",
+			"progResult": [{
+				"hcpId": "8000000000",
+				"progName": "PPP_PEP",
+				"link": {
+					"href": "/dr-search/hcp/8000000000/PPP_PEP",
+					"rel": "getHcpProg"
+				}
+			}],
+			"hcpLink": {
+				"href": "/dr-search/hcp/8000000000",
+				"rel": "getHcpDetail"
+			},
+			"hslInfo": [{
+				"hcpId": "8000000000",
+				"hciId": "8000000001",
+				"nameEng": "HAVEN OF HOPE CAUSEWAY BAY MEDICAL CENTRE",
+				"nameChiT": "靈實銅鑼灣醫療中心",
+				"hciLink": {
+					"href": "/dr-search/hci/8000000001",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "8000000000",
+				"hciId": "8000000003",
+				"nameEng": "PATIENT EMPOWERMENT PROGRAMME (HKEC)",
+				"nameChiT": "病人自強計劃 - 港島東",
+				"hciLink": {
+					"href": "/dr-search/hci/8000000003",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "8000000000",
+				"hciId": "8000000002",
+				"nameEng": "HAVEN OF HOPE SAU MAU PING CLINIC",
+				"nameChiT": "靈實秀茂坪診所",
+				"hciLink": {
+					"href": "/dr-search/hci/8000000002",
+					"rel": "getHciDetail"
+				}
+			}]
+		}],
+		"hslResultList": [{
+			"hcpId": "8000000000",
+			"hciId": "8000000001",
+			"nameEng": "HAVEN OF HOPE CAUSEWAY BAY MEDICAL CENTRE",
+			"nameChiT": "靈實銅鑼灣醫療中心",
+			"hciLink": {
+				"href": "/dr-search/hci/8000000001",
+				"rel": "getHciDetail"
+			}
+		},
+		{
+			"hcpId": "8000000000",
+			"hciId": "8000000002",
+			"nameEng": "HAVEN OF HOPE SAU MAU PING CLINIC",
+			"nameChiT": "靈實秀茂坪診所",
+			"hciLink": {
+				"href": "/dr-search/hci/8000000002",
+				"rel": "getHciDetail"
+			}
+		}],
+		"otherProfResultList": [],
+		"ehrssProfStartNum": 1,
+		"ehrssProfEndNum": 10,
+		"hcpStartNum": 1,
+		"hcpEndNum": 10,
+		"hslStartNum": 1,
+		"hslEndNum": 10,
+		"otherProfStartNum": 1,
+		"otherProfEndNum": 51
+	}
+}

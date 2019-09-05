@@ -1,0 +1,56 @@
+{
+	"consent": {
+		"sharingConsentResponse": {
+			"sharingConsentRecord": [{
+				"id": 0,
+				"hcpId": 2436027002,
+				"hciLongNameEng": "PERFECT LIFE ASIA LIMITED",
+				"hciLongNameChiT": "優越醫療亞洲有限公司",
+				"consentType": 0,
+				"consentStartDate": "2018-07-30",
+				"consentEndDate": "2099-12-31",
+				"consentStatusCd": "A"
+			},
+			{
+				"id": 1,
+				"hcpId": 6716256779,
+				"hciLongNameEng": "PERFECT UNION MEDICAL GROUP LIMITED",
+				"hciLongNameChiT": "極致醫療有限公司",
+				"consentType": 1,
+				"consentStartDate": "2018-09-01",
+				"consentEndDate": "2019-09-01",
+				"consentStatusCd": "I"
+			},
+			{
+				"id": 2,
+				"hcpId": 1709602281,
+				"hciLongNameEng": "NEO-HEALTH (HK) LIMITED",
+				"hciLongNameChiT": "創健醫療(香港)有限公司",
+				"consentType": 1,
+				"consentStartDate": "2019-08-09",
+				"consentEndDate": "2020-08-09",
+				"consentStatusCd": "A"
+			},
+			{
+				"id": 3,
+				"hcpId": 5359387550,
+				"hciLongNameEng": "DR SIMON C. L. AU",
+				"hciLongNameChiT": "區志立醫生",
+				"consentType": 0,
+				"consentStartDate": "2019-03-20",
+				"consentEndDate": "2029-09-01",
+				"consentStatusCd": "I"
+			},
+			{
+				"id": 4,
+				"hcpId": 7603880596,
+				"hciLongNameEng": "DR WONG PO CHUNG",
+				"hciLongNameChiT": "黃寶聰醫生醫務所",
+				"consentType": 0,
+				"consentStartDate": "2019-03-20",
+				"consentEndDate": "2099-12-31",
+				"consentStatusCd": "A"
+			}]
+		}
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"dr-search_hcp_7420324778_PPP_RAD": {
+		"progName": "PPP_RAD",
+		"hcpProgClinicList": [{
+			"hcpId": 7420324778,
+			"hciId": 1000000004,
+			"clinicNameEng": "C-Mer Dennis Lam & Partners Eye Centre (Kowloon)",
+			"clinicNameChiT": "希瑪林順潮眼科中心(九龍)",
+			"clinicAddressEng": "Room 1202-03, 12/F, Office Tower One, Grand Plaza, 625&639 Nathan Road, Kowloon",
+			"clinicAddressChiT": "旺角彌敦道 625及639 號雅蘭中心 一期 12 樓 1202-03 室",
+			"clinicPhoneNo": "39967660",
+			"clinicFaxNo": "39967660",
+			"clinicDistrictCd": "YTM",
+			"clinicOpeningHoursEng": "Mon – Fri\n9:30 am – 7:00 pm \nSat\n9:30 am – 1:00 pm \nclosed on Sun and PH ",
+			"clinicOpeningHoursChiT": "星期一至星期五 \n9:30 am – 7:00 pm \n星期六\n9:30 am – 1:00 pm \n星期日及公眾假期休息 ",
+			"clinicOpeningHoursChiS": "星期一至星期五 \n9:30 am – 7:00 pm \n星期六\n9:30 am – 1:00 pm \n星期日及公眾假期休息 ",
+			"clinicServiceList": [{
+				"type": "MRI",
+				"typeChi": "磁力共振掃描造",
+				"price": "$1000"
+			},
+			{
+				"type": "CT",
+				"typeChi": "電腦掃描造影",
+				"price": "$2000"
+			}],
+			"operationAddressList": [],
+			"hciInfo": {
+				"hcpId": "7420324778",
+				"hciId": "1000000004",
+				"nameEng": "DENNIS LAM & PARTNERS EYE CENTER(MONG KOK)",
+				"nameChiT": "林順潮眼科中心(旺角)",
+				"addressEng": "RM 1202,12/F,ONE GRAND TOWER,639,NATHAN RD,YAU TSIM MONG DISTRICT,KOWLOON",
+				"addressChiT": "九龍油尖旺區彌敦道639號號雅蘭中心12樓1202室",
+				"telephone": "39967660"
+			}
+		}]
+	}
+}

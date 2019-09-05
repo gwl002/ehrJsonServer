@@ -1,0 +1,120 @@
+{
+	"dr-search_result_3": {
+		"ehrssProfCnt": 3,
+		"hcpCnt": 0,
+		"hslCnt": 3,
+		"otherProfCnt": 0,
+		"ehrssProfResultList": [{
+			"profId": "RMP-M12313",
+			"profCateCd": "RMP",
+			"profNameEng": "HO, PAK KIN",
+			"profNameChiT": "何柏堅",
+			"hslInfo": [{
+				"hcpId": "5000000000",
+				"hciId": "5000000001",
+				"nameEng": "RICHEN SURGICAL CLINIC",
+				"nameChiT": "薈縉外科專科中心",
+				"hciLink": {
+					"href": "/dr-search/hci/5000000001",
+					"rel": "getHciDetail"
+				}
+			}],
+			"progResult": [{
+				"profId": "RMP-M12313",
+				"progName": "CRC",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12313/CRC",
+					"rel": "getProfProg"
+				}
+			}]
+		},
+		{
+			"profId": "RMP-M12312",
+			"profCateCd": "RMP",
+			"profNameEng": "NG, TSZ KI",
+			"profNameChiT": "伍梓奇",
+			"hslInfo": [{
+				"hcpId": "4000000000",
+				"hciId": "4000000001",
+				"nameEng": "QUALITY HEALTHCARE MEDICAL CENTRE (KOWLOON BAY-TELFORD GARDENS)",
+				"nameChiT": "卓健醫療中心(九龍灣-德福花園)",
+				"hciLink": {
+					"href": "/dr-search/hci/4000000001",
+					"rel": "getHciDetail"
+				}
+			}],
+			"progResult": [{
+				"profId": "RMP-M12312",
+				"progName": "CRC",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12312/CRC",
+					"rel": "getProfProg"
+				}
+			}]
+		},
+		{
+			"profId": "RMP-M12311",
+			"profCateCd": "RMP",
+			"profNameEng": "WAN, MING SHING",
+			"profNameChiT": "温明成",
+			"hslInfo": [{
+				"hcpId": "3000000000",
+				"hciId": "3000000001",
+				"nameEng": "BRADBURY KWONG TIN COMMUNITY HEALTH CENTRE",
+				"nameChiT": "白普理廣田社區健康中心",
+				"hciLink": {
+					"href": "/dr-search/hci/3000000001",
+					"rel": "getHciDetail"
+				}
+			}],
+			"progResult": [{
+				"profId": "RMP-M12311",
+				"progName": "CRC",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12311/CRC",
+					"rel": "getProfProg"
+				}
+			}]
+		}],
+		"hcpResultList": [],
+		"hslResultList": [{
+			"hcpId": "3000000000",
+			"hciId": "3000000001",
+			"nameEng": "BRADBURY KWONG TIN COMMUNITY HEALTH CENTRE",
+			"nameChiT": "白普理廣田社區健康中心",
+			"hciLink": {
+				"href": "/dr-search/hci/3000000001",
+				"rel": "getHciDetail"
+			}
+		},
+		{
+			"hcpId": "4000000000",
+			"hciId": "4000000001",
+			"nameEng": "QUALITY HEALTHCARE MEDICAL CENTRE (KOWLOON BAY-TELFORD GARDENS)",
+			"nameChiT": "卓健醫療中心(九龍灣-德福花園)",
+			"hciLink": {
+				"href": "/dr-search/hci/4000000001",
+				"rel": "getHciDetail"
+			}
+		},
+		{
+			"hcpId": "5000000000",
+			"hciId": "5000000001",
+			"nameEng": "RICHEN SURGICAL CLINIC",
+			"nameChiT": "薈縉外科專科中心",
+			"hciLink": {
+				"href": "/dr-search/hci/5000000001",
+				"rel": "getHciDetail"
+			}
+		}],
+		"otherProfResultList": [],
+		"ehrssProfStartNum": 1,
+		"ehrssProfEndNum": 10,
+		"hcpStartNum": 1,
+		"hcpEndNum": 10,
+		"hslStartNum": 1,
+		"hslEndNum": 10,
+		"otherProfStartNum": 1,
+		"otherProfEndNum": 10
+	}
+}

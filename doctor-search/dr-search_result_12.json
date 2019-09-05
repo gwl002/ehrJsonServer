@@ -1,0 +1,64 @@
+{
+	"dr-search_result_12": {
+		"ehrssProfCnt": 1,
+		"hcpCnt": 0,
+		"hslCnt": 0,
+		"otherProfCnt": 1,
+		"ehrssProfResultList": [{
+			"profId": "RMP-M12340",
+			"profCateCd": "RMP",
+			"profNameEng": "LAM, YAU YUI",
+			"profNameChiT": "林佑叡",
+			"hslInfo": [{
+				"hcpId": "6000000100",
+				"hciId": "6000000101",
+				"nameEng": "ELITE MEDICAL HOLDINGS LIMITED",
+				"nameChiT": null,
+				"hciLink": {
+					"href": "/dr-search/hci/6000000101",
+					"rel": "getHciDetail"
+				}
+			}],
+			"progResult": [{
+				"profId": "RMP-M12340",
+				"progName": "PPP_Colon",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12340/PPP_Colon",
+					"rel": "getProfProg"
+				}
+			},
+			{
+				"profId": "RMP-M12340",
+				"progName": "HCVS",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12340/HCVS",
+					"rel": "getProfProg"
+				}
+			}]
+		}],
+		"hcpResultList": [],
+		"hslResultList": [],
+		"otherProfResultList": [{
+			"progName": "HCVS",
+			"profId": "RMP-M12340",
+			"profCateCd": "RMP",
+			"profNameEng": "LAM YAU YUI",
+			"profNameChiT": "林佑叡",
+			"clinicId": "EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0tpqr==-1",
+			"clinicNameEng": "ELITE MEDICAL HOLDINGS LIMITED",
+			"clinicNameChiT": "賢林醫務中心",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12340/HCVS/EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0tpqr==-1",
+				"rel": "getProfProgClinic"
+			}
+		}],
+		"ehrssProfStartNum": 1,
+		"ehrssProfEndNum": 10,
+		"hcpStartNum": 1,
+		"hcpEndNum": 10,
+		"hslStartNum": 1,
+		"hslEndNum": 10,
+		"otherProfStartNum": 1,
+		"otherProfEndNum": 51
+	}
+}

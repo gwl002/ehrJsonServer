@@ -1,0 +1,178 @@
+{
+	"dr-search_result_2": {
+		"ehrssProfCnt": 1,
+		"hcpCnt": 0,
+		"hslCnt": 0,
+		"otherProfCnt": 5,
+		"ehrssProfResultList": [{
+			"profId": "RMP-M12300",
+			"profCateCd": "RMP",
+			"profNameEng": "LEE, WAI YIP JACKY",
+			"profNameChiT": "李煒業",
+			"hslInfo": [{
+				"hcpId": "7420324778",
+				"hciId": "1000000002",
+				"nameEng": "DENNIS LAM & PARTNERS EYE CENTER(CAUSEWAY BAY)",
+				"nameChiT": "林順潮眼科中心(銅鑼灣)",
+				"hciLink": {
+					"href": "/dr-search/hci/1000000002",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "7420324778",
+				"hciId": "1000000001",
+				"nameEng": "DENNIS LAM & PARTNERS EYE CENTER(CENTRAL)",
+				"nameChiT": "林順潮眼科中心(中環)",
+				"hciLink": {
+					"href": "/dr-search/hci/1000000001",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "7420324778",
+				"hciId": "1000000003",
+				"nameEng": "C-MER Dennis Lam & Partners Eye Center (Kwun Tong)",
+				"nameChiT": "希瑪林順潮眼科中心(觀塘)",
+				"hciLink": {
+					"href": "/dr-search/hci/1000000003",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "7420324778",
+				"hciId": "1000000005",
+				"nameEng": "DENNIS LAM & PARTNERS EYE CENTER(SHA TIN)",
+				"nameChiT": "林順潮眼科中心(沙田)",
+				"hciLink": {
+					"href": "/dr-search/hci/1000000005",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "7420324778",
+				"hciId": "1000000006",
+				"nameEng": "DENNIS LAM & PARTNERS EYE CENTER(YUEN LONG)",
+				"nameChiT": "林順潮眼科中心(元朗)",
+				"hciLink": {
+					"href": "/dr-search/hci/1000000006",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "7420324778",
+				"hciId": "1000000004",
+				"nameEng": "DENNIS LAM & PARTNERS EYE CENTER(MONG KOK)",
+				"nameChiT": "林順潮眼科中心(旺角)",
+				"hciLink": {
+					"href": "/dr-search/hci/1000000004",
+					"rel": "getHciDetail"
+				}
+			}],
+			"progResult": [{
+				"profId": "RMP-M12300",
+				"progName": "PPP_CSP",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12300/PPP_CSP",
+					"rel": "getProfProg"
+				}
+			},
+			{
+				"profId": "RMP-M12300",
+				"progName": "HCVS",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12300/HCVS",
+					"rel": "getProfProg"
+				}
+			},
+			{
+				"profId": "RMP-M12300",
+				"progName": "PPP_GLAU",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12300/PPP_GLAU",
+					"rel": "getProfProg"
+				}
+			}]
+		}],
+		"hcpResultList": [],
+		"hslResultList": [],
+		"otherProfResultList": [{
+			"progName": "HCVS",
+			"profId": "RMP-M12300",
+			"profCateCd": "RMP",
+			"profNameEng": "LEE, WAI YIP JACKY",
+			"profNameChiT": "李煒業",
+			"clinicId": "EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0tdef==-3",
+			"clinicNameEng": "C-Mer Dennis Lam & Partners Eye Center (Sha Tin)",
+			"clinicNameChiT": "希瑪林順潮眼科中心(沙田)",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12300/HCVS/EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0tdef==-3",
+				"rel": "getProfProgClinic"
+			}
+		},
+		{
+			"progName": "HCVS",
+			"profId": "RMP-M12300",
+			"profCateCd": "RMP",
+			"profNameEng": "LEE, WAI YIP JACKY",
+			"profNameChiT": "李煒業",
+			"clinicId": "EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0tdef==-4",
+			"clinicNameEng": "C-Mer Dennis Lam & Partners Eye Center (Causeway Bay)",
+			"clinicNameChiT": "希瑪林順潮眼科中心(銅鑼灣)",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12300/HCVS/EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0tdef==-4",
+				"rel": "getProfProgClinic"
+			}
+		},
+		{
+			"progName": "HCVS",
+			"profId": "RMP-M12300",
+			"profCateCd": "RMP",
+			"profNameEng": "LEE, WAI YIP JACKY",
+			"profNameChiT": "李煒業",
+			"clinicId": "EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0tdef==-5",
+			"clinicNameEng": "C-Mer Dennis Lam & Partners Eye Center (Kwun Tong)",
+			"clinicNameChiT": "希瑪林順潮眼科中心(觀塘)",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12300/HCVS/EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0tdef==-5",
+				"rel": "getProfProgClinic"
+			}
+		},
+		{
+			"progName": "HCVS",
+			"profId": "RMP-M12300",
+			"profCateCd": "RMP",
+			"profNameEng": "LEE, WAI YIP JACKY",
+			"profNameChiT": "李煒業",
+			"clinicId": "EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0tdef==-2",
+			"clinicNameEng": "C-Mer Dennis Lam & Partners Eye Center (Yuen Long)",
+			"clinicNameChiT": "希瑪林順潮眼科中心(元朗)",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12300/HCVS/EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0tdef==-2",
+				"rel": "getProfProgClinic"
+			}
+		},
+		{
+			"progName": "HCVS",
+			"profId": "RMP-M12300",
+			"profCateCd": "RMP",
+			"profNameEng": "LEE, WAI YIP JACKY",
+			"profNameChiT": "李煒業",
+			"clinicId": "EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0tdef==-1",
+			"clinicNameEng": "C-Mer Dennis Lam & Partners Eye Center (Kowloon)",
+			"clinicNameChiT": "希瑪林順潮眼科中心(九龍)",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12300/HCVS/EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0tdef==-1",
+				"rel": "getProfProgClinic"
+			}
+		}],
+		"ehrssProfStartNum": 1,
+		"ehrssProfEndNum": 10,
+		"hcpStartNum": 1,
+		"hcpEndNum": 10,
+		"hslStartNum": 1,
+		"hslEndNum": 10,
+		"otherProfStartNum": 1,
+		"otherProfEndNum": 10
+	}
+}

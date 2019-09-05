@@ -1,0 +1,66 @@
+{
+	"dr-search_prof_RMP-M12329_CRC_9265486345-9000000008": {
+		"profId": "RMP-M12329",
+		"progName": "CRC",
+		"clinicId": "9265486345-9000000008",
+		"progResult": [{
+			"profId": "RMP-M12329",
+			"progName": "HCVS",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12329/HCVS",
+				"rel": "getProfProg"
+			}
+		},
+		{
+			"profId": "RMP-M12329",
+			"progName": "CRC",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12329/CRC",
+				"rel": "getProfProg"
+			}
+		},
+		{
+			"profId": "RMP-M12329",
+			"progName": "PPP_GOPC",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12329/PPP_GOPC",
+				"rel": "getProfProg"
+			}
+		}],
+		"payload": {
+			"profId": "RMP-M12329",
+			"profCateCd": "RMP",
+			"profRegNo": "M12329",
+			"profNameEng": "CHEUNG, KEVIN MAN KEI",
+			"profNameChiT": "張文基",
+			"profNameChiS": "张文基",
+			"isSpecialCharIncluded": "false",
+			"acctStatusFlag": "A",
+			"engTitleCd": "DR",
+			"engTitle": "Doctor",
+			"lastUpdateTime": "2015-11-10T11:10:57+08:00",
+			"hciInfo": {
+				"hcpId": "9265486345",
+				"hciId": "9000000008",
+				"nameEng": "Quality Healthcare Medical Centre",
+				"nameChiT": "卓健醫療中心",
+				"nameChiS": "卓健医疗中心",
+				"addressEng": "G/F,BLOCK 1,TELFORD GARDEN,KWUN TONG DISTRICT,KOWLOON",
+				"addressChiT": "九龍觀塘區德福花園一座地下",
+				"addressChiS": "九龍觀塘區德福花園一座地下"
+			},
+			"progInfo": {
+				"hcpId": 9265486345,
+				"hciId": 9000000008,
+				"pcdInd": "Y",
+				"pcdCopay": 150,
+				"csInd": "N",
+				"csConsultInd": null,
+				"csExamInd": null,
+				"csCopayWO": null,
+				"csCopayW": null,
+				"charityQuota": null
+			}
+		}
+	}
+}

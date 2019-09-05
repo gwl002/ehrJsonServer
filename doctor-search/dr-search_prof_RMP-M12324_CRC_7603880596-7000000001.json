@@ -1,0 +1,67 @@
+{
+	"dr-search_prof_RMP-M12324_CRC_7603880596-7000000001": {
+		"profId": "RMP-M12324",
+		"progName": "CRC",
+		"clinicId": "7603880596-7000000001",
+		"progResult": [{
+			"profId": "RMP-M12324",
+			"progName": "CRC",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12324/CRC",
+				"rel": "getProfProg"
+			}
+		},
+		{
+			"profId": "RMP-M12324",
+			"progName": "HCVS",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12324/HCVS",
+				"rel": "getProfProg"
+			}
+		},
+		{
+			"profId": "RMP-M12324",
+			"progName": "PPP_GOPC",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12324/PPP_GOPC",
+				"rel": "getProfProg"
+			}
+		}],
+		"payload": {
+			"profId": "RMP-M12324",
+			"profCateCd": "RMP",
+			"profRegNo": "M12324",
+			"profNameEng": "WONG, PO CHUNG",
+			"profNameChiT": "黃寶聰",
+			"profNameChiS": "黄宝聪",
+			"isSpecialCharIncluded": "false",
+			"acctStatusFlag": "A",
+			"engTitleCd": "DR",
+			"engTitle": "Doctor",
+			"lastUpdateTime": "2015-11-10T11:10:57+08:00",
+			"hciInfo": {
+				"hcpId": "7603880596",
+				"hciId": "7000000001",
+				"nameEng": "DR WONG PO CHUNG",
+				"nameChiT": "黃寶聰醫生醫務所",
+				"nameChiS": "黄宝聪医生医务所",
+				"addressEng": "SHOP 1,G/F,PO SUN MANSION,89,BULKELEY ST,KOWLOON CITY DISTRICT,KOWLOON",
+				"addressChiT": "九龍九龍城區寶其利街89號號寶新大廈地下1舖",
+				"addressChiS": "九龍九龍城區寶其利街89號号寶新大廈地下1舖",
+				"telephone": "23348286"
+			},
+			"progInfo": {
+				"hcpId": 7603880596,
+				"hciId": 7000000001,
+				"pcdInd": "Y",
+				"pcdCopay": 100,
+				"csInd": "N",
+				"csConsultInd": null,
+				"csExamInd": null,
+				"csCopayWO": null,
+				"csCopayW": null,
+				"charityQuota": null
+			}
+		}
+	}
+}

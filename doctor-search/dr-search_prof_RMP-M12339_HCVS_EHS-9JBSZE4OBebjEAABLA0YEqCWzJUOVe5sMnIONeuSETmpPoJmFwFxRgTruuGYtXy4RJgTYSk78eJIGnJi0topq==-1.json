@@ -1,0 +1,46 @@
+{
+	"dr-search_prof_RMP-M12339_HCVS_EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0topq==-1": {
+		"profId": "RMP-M12339",
+		"progName": "HCVS",
+		"clinicId": "EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0topq==-1",
+		"progResult": [{
+			"profId": "RMP-M12339",
+			"progName": "PPP_GOPC",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12339/PPP_GOPC",
+				"rel": "getProfProg"
+			}
+		},
+		{
+			"profId": "RMP-M12339",
+			"progName": "HCVS",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12339/HCVS",
+				"rel": "getProfProg"
+			}
+		}],
+		"payload": {
+			"profId": "RMP-M12339",
+			"profCateCd": "RMP",
+			"profRegNo": "M12339",
+			"profNameEng": "Cheng William Kin Keung",
+			"profNameChiT": "鄭偉強",
+			"profNameChiS": "鄭偉強",
+			"progInfo": {
+				"clinicId": "EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0topq==-1",
+				"clinicNameEng": "Quality Healthcare Medical Centre",
+				"clinicNameChiT": "卓健醫療體檢中心",
+				"clinicNameChiS": "卓健醫療體檢中心",
+				"clinicAddressEng": "G/F, BLOCK 1, TELFORD GARDEN, KOWLOON BAY, KOWLOON",
+				"clinicAddressChiT": "九龍九龍灣啟豐商場1樓127室",
+				"clinicAddressChiS": "九龍九龍灣啟豐商場1樓127室",
+				"phoneNo": null,
+				"districtCd": "KT",
+				"schemeItem": {
+					"schemeCode": "HCVS",
+					"categoryList": null
+				}
+			}
+		}
+	}
+}

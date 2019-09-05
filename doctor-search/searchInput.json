@@ -1,0 +1,15 @@
+{  
+  "freeTextList": null,
+  "districtList": [{"searchKey" : "KT"}],
+  "advAddress": "",
+  "advPhoneNo": "",
+  "advProgCdList": [{"searchKey" : "PPP_GOPC"}],
+  "ehrssProfStartNum": 1,
+  "ehrssProfEndNum": 10,
+  "hcpStartNum": 1,
+  "hcpEndNum": 10,
+  "hslStartNum": 1,
+  "hslEndNum": 10,
+  "otherProfStartNum": 1,
+  "otherProfEndNum": 51
+}

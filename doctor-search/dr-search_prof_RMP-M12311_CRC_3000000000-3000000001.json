@@ -1,0 +1,51 @@
+{
+	"dr-search_prof_RMP-M12311_CRC_3000000000-3000000001": {
+		"profId": "RMP-M12311",
+		"progName": "CRC",
+		"clinicId": "3000000000-3000000001",
+		"progResult": [{
+			"profId": "RMP-M12311",
+			"progName": "CRC",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12311/CRC",
+				"rel": "getProfProg"
+			}
+		}],
+		"payload": {
+			"profId": "RMP-M12311",
+			"profCateCd": "RMP",
+			"profRegNo": "M12311",
+			"profNameEng": "WAN, MING SHING",
+			"profNameChiT": "温明成",
+			"profNameChiS": "温明成",
+			"isSpecialCharIncluded": "false",
+			"acctStatusFlag": "A",
+			"engTitleCd": "DR",
+			"engTitle": "Doctor",
+			"lastUpdateTime": "2015-11-10T11:10:57+08:00",
+			"hciInfo": {
+				"hcpId": "3000000000",
+				"hciId": "3000000001",
+				"nameEng": "BRADBURY KWONG TIN COMMUNITY HEALTH CENTRE",
+				"nameChiT": "白普理廣田社區健康中心",
+				"nameChiS": "白普理广田社区健康中心",
+				"addressEng": "SHOP 203,KWONG TIN SHOPPING CENTRE,KWONG TIN ESTATE,KWUN TONG DISTRICT,KOWLOON",
+				"addressChiT": "九龍觀塘區廣田邨廣田商場203室",
+				"addressChiS": "九龍觀塘區廣田邨廣田商場203室",
+				"telephone": "24120082"
+			},
+			"progInfo": {
+				"hcpId": 3000000000,
+				"hciId": 3000000001,
+				"pcdInd": "Y",
+				"pcdCopay": 100,
+				"csInd": "N",
+				"csConsultInd": null,
+				"csExamInd": null,
+				"csCopayWO": null,
+				"csCopayW": null,
+				"charityQuota": null
+			}
+		}
+	}
+}

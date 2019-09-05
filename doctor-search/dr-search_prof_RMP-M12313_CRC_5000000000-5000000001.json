@@ -1,0 +1,51 @@
+{
+	"dr-search_prof_RMP-M12313_CRC_5000000000-5000000001": {
+		"profId": "RMP-M12313",
+		"progName": "CRC",
+		"clinicId": "5000000000-5000000001",
+		"progResult": [{
+			"profId": "RMP-M12313",
+			"progName": "CRC",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12313/CRC",
+				"rel": "getProfProg"
+			}
+		}],
+		"payload": {
+			"profId": "RMP-M12313",
+			"profCateCd": "RMP",
+			"profRegNo": "M12313",
+			"profNameEng": "HO, PAK KIN",
+			"profNameChiT": "何柏堅",
+			"profNameChiS": "何柏坚",
+			"isSpecialCharIncluded": "false",
+			"acctStatusFlag": "A",
+			"engTitleCd": "DR",
+			"engTitle": "Doctor",
+			"lastUpdateTime": "2015-11-10T11:10:57+08:00",
+			"hciInfo": {
+				"hcpId": "5000000000",
+				"hciId": "5000000001",
+				"nameEng": "RICHEN SURGICAL CLINIC",
+				"nameChiT": "薈縉外科專科中心",
+				"nameChiS": "荟缙外科专科中心",
+				"addressEng": "SUITE 1101,11/F,MELBOURNE PLAZA,33,QUEEN'S ROAD CENTRAL,CENTRAL AND WESTERN DISTRICT,HONG KONG",
+				"addressChiT": "香港中西區皇后大道中33號號萬邦行11樓1101室",
+				"addressChiS": "香港中西區皇后大道中33號号萬邦行11樓1101室",
+				"telephone": "25220039"
+			},
+			"progInfo": {
+				"hcpId": 5000000000,
+				"hciId": 5000000001,
+				"pcdInd": "Y",
+				"pcdCopay": 100,
+				"csInd": "Y",
+				"csConsultInd": "Y",
+				"csExamInd": "Y",
+				"csCopayWO": 210,
+				"csCopayW": 210,
+				"charityQuota": 15
+			}
+		}
+	}
+}

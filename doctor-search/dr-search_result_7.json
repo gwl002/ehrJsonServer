@@ -1,0 +1,100 @@
+{
+	"dr-search_result_7": {
+		"ehrssProfCnt": 1,
+		"hcpCnt": 1,
+		"hslCnt": 1,
+		"otherProfCnt": 1,
+		"ehrssProfResultList": [{
+			"profId": "RMP-M12324",
+			"profCateCd": "RMP",
+			"profNameEng": "WONG, PO CHUNG",
+			"profNameChiT": "黃寶聰",
+			"hslInfo": [{
+				"hcpId": "7603880596",
+				"hciId": "7000000001",
+				"nameEng": "DR WONG PO CHUNG",
+				"nameChiT": "黃寶聰醫生醫務所",
+				"hciLink": {
+					"href": "/dr-search/hci/7000000001",
+					"rel": "getHciDetail"
+				}
+			}],
+			"progResult": [{
+				"profId": "RMP-M12324",
+				"progName": "CRC",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12324/CRC",
+					"rel": "getProfProg"
+				}
+			},
+			{
+				"profId": "RMP-M12324",
+				"progName": "HCVS",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12324/HCVS",
+					"rel": "getProfProg"
+				}
+			},
+			{
+				"profId": "RMP-M12324",
+				"progName": "PPP_GOPC",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12324/PPP_GOPC",
+					"rel": "getProfProg"
+				}
+			}]
+		}],
+		"hcpResultList": [{
+			"hcpId": "7603880596",
+			"nameEng": "DR WONG PO CHUNG",
+			"nameChiT": "黃寶聰醫生醫務所",
+			"progResult": null,
+			"hcpLink": {
+				"href": "/dr-search/hcp/7603880596",
+				"rel": "getHcpDetail"
+			},
+			"hslInfo": [{
+				"hcpId": "7603880596",
+				"hciId": "7000000001",
+				"nameEng": "DR WONG PO CHUNG",
+				"nameChiT": "黃寶聰醫生醫務所",
+				"hciLink": {
+					"href": "/dr-search/hci/7000000001",
+					"rel": "getHciDetail"
+				}
+			}]
+		}],
+		"hslResultList": [{
+			"hcpId": "7603880596",
+			"hciId": "7000000001",
+			"nameEng": "DR WONG PO CHUNG",
+			"nameChiT": "黃寶聰醫生醫務所",
+			"hciLink": {
+				"href": "/dr-search/hci/7000000001",
+				"rel": "getHciDetail"
+			}
+		}],
+		"otherProfResultList": [{
+			"progName": "HCVS",
+			"profId": "RMP-M12324",
+			"profCateCd": "RMP",
+			"profNameEng": "Wong Po Chung",
+			"profNameChiT": "黃寶聰",
+			"clinicId": "EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0tmno==-1",
+			"clinicNameEng": "Dr. Wong Po Chung",
+			"clinicNameChiT": "黃寶聰醫生醫務所",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12324/HCVS/EHS-9JBSZE4OBebjEAABLA0YEqCWzJUOVe5sMnIONeuSETmpPoJmFwFxRgTruuGYtXy4RJgTYSk78eJIGnJi0tmno==-1",
+				"rel": "getProfProgClinic"
+			}
+		}],
+		"ehrssProfStartNum": 1,
+		"ehrssProfEndNum": 10,
+		"hcpStartNum": 1,
+		"hcpEndNum": 10,
+		"hslStartNum": 1,
+		"hslEndNum": 10,
+		"otherProfStartNum": 1,
+		"otherProfEndNum": 51
+	}
+}

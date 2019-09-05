@@ -1,0 +1,208 @@
+{
+	"dr-search_result_4": {
+		"ehrssProfCnt": 0,
+		"hcpCnt": 2,
+		"hslCnt": 7,
+		"otherProfCnt": 0,
+		"ehrssProfResultList": [],
+		"hcpResultList": [{
+			"hcpId": "6716256779",
+			"nameEng": "PERFECT UNION MEDICAL GROUP LIMITED",
+			"nameChiT": "極致醫療有限公司",
+			"progResult": null,
+			"hcpLink": {
+				"href": "/dr-search/hcp/6716256779",
+				"rel": "getHcpDetail"
+			},
+			"hslInfo": [{
+				"hcpId": "6716256779",
+				"hciId": "6000000001",
+				"nameEng": "PERFECT UNION MEDICAL GROUP LIMITED",
+				"nameChiT": "極致醫療有限公司",
+				"hciLink": {
+					"href": "/dr-search/hci/6000000001",
+					"rel": "getHciDetail"
+				}
+			}]
+		},
+		{
+			"hcpId": "2436027002",
+			"nameEng": "PERFECT LIFE ASIA LIMITED",
+			"nameChiT": "優越醫療亞洲有限公司",
+			"progResult": null,
+			"hcpLink": {
+				"href": "/dr-search/hcp/2436027002",
+				"rel": "getHcpDetail"
+			},
+			"hslInfo": [{
+				"hcpId": "2436027002",
+				"hciId": "2000000109",
+				"nameEng": "Human Health (Siu Sai Wan)",
+				"nameChiT": "盈健醫務中心(小西灣)",
+				"hciLink": {
+					"href": "/dr-search/hci/2000000109",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "2436027002",
+				"hciId": "2000000108",
+				"nameEng": "Perfect Life Medical Centre (Heng Fa Chuen)",
+				"nameChiT": "優越醫療醫務中心(杏花村)",
+				"hciLink": {
+					"href": "/dr-search/hci/2000000108",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "2436027002",
+				"hciId": "2000000107",
+				"nameEng": "Human Health (Tiu Keng Leng)",
+				"nameChiT": "盈健醫務中心(調景嶺)",
+				"hciLink": {
+					"href": "/dr-search/hci/2000000107",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "2436027002",
+				"hciId": "2000000106",
+				"nameEng": "Human Health (Mei Foo)",
+				"nameChiT": "盈健醫務中心(美孚)",
+				"hciLink": {
+					"href": "/dr-search/hci/2000000106",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "2436027002",
+				"hciId": "2000000105",
+				"nameEng": "Perfect Life Medical Centre (Shau Kei Wan)",
+				"nameChiT": "優越醫療醫務中心(筲箕灣)",
+				"hciLink": {
+					"href": "/dr-search/hci/2000000105",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "2436027002",
+				"hciId": "2000000104",
+				"nameEng": "Perfect Life Medical Centre (Mong Kok)",
+				"nameChiT": "優越醫療醫務中心(旺角)",
+				"hciLink": {
+					"href": "/dr-search/hci/2000000104",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "2436027002",
+				"hciId": "2000000103",
+				"nameEng": "Perfect Life Medical Centre (Quarry Bay)",
+				"nameChiT": "優越醫療醫務中心(鰂魚涌)",
+				"hciLink": {
+					"href": "/dr-search/hci/2000000103",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "2436027002",
+				"hciId": "2000000102",
+				"nameEng": "Perfect Life Medical Centre (Sai Wan Ho)",
+				"nameChiT": "優越醫療醫務中心(西灣河)",
+				"hciLink": {
+					"href": "/dr-search/hci/2000000102",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "2436027002",
+				"hciId": "2000000101",
+				"nameEng": "PERFECT LIFE ASIA LIMITED",
+				"nameChiT": "優越醫療亞洲有限公司",
+				"hciLink": {
+					"href": "/dr-search/hci/2000000101",
+					"rel": "getHciDetail"
+				}
+			}]
+		}],
+		"hslResultList": [{
+			"hcpId": "6716256779",
+			"hciId": "6000000001",
+			"nameEng": "PERFECT UNION MEDICAL GROUP LIMITED",
+			"nameChiT": "極致醫療有限公司",
+			"hciLink": {
+				"href": "/dr-search/hci/6000000001",
+				"rel": "getHciDetail"
+			}
+		},
+		{
+			"hcpId": "2436027002",
+			"hciId": "2000000102",
+			"nameEng": "Perfect Life Medical Centre (Sai Wan Ho)",
+			"nameChiT": "優越醫療醫務中心(西灣河)",
+			"hciLink": {
+				"href": "/dr-search/hci/2000000102",
+				"rel": "getHciDetail"
+			}
+		},
+		{
+			"hcpId": "2436027002",
+			"hciId": "2000000103",
+			"nameEng": "Perfect Life Medical Centre (Quarry Bay)",
+			"nameChiT": "優越醫療醫務中心(鰂魚涌)",
+			"hciLink": {
+				"href": "/dr-search/hci/2000000103",
+				"rel": "getHciDetail"
+			}
+		},
+		{
+			"hcpId": "2436027002",
+			"hciId": "2000000104",
+			"nameEng": "Perfect Life Medical Centre (Mong Kok)",
+			"nameChiT": "優越醫療醫務中心(旺角)",
+			"hciLink": {
+				"href": "/dr-search/hci/2000000104",
+				"rel": "getHciDetail"
+			}
+		},
+		{
+			"hcpId": "2436027002",
+			"hciId": "2000000105",
+			"nameEng": "Perfect Life Medical Centre (Shau Kei Wan)",
+			"nameChiT": "優越醫療醫務中心(筲箕灣)",
+			"hciLink": {
+				"href": "/dr-search/hci/2000000105",
+				"rel": "getHciDetail"
+			}
+		},
+		{
+			"hcpId": "2436027002",
+			"hciId": "2000000108",
+			"nameEng": "Perfect Life Medical Centre (Heng Fa Chuen)",
+			"nameChiT": "優越醫療醫務中心(杏花村)",
+			"hciLink": {
+				"href": "/dr-search/hci/2000000108",
+				"rel": "getHciDetail"
+			}
+		},
+		{
+			"hcpId": "2436027002",
+			"hciId": "2000000101",
+			"nameEng": "PERFECT LIFE ASIA LIMITED",
+			"nameChiT": "優越醫療亞洲有限公司",
+			"hciLink": {
+				"href": "/dr-search/hci/2000000101",
+				"rel": "getHciDetail"
+			}
+		}],
+		"otherProfResultList": [],
+		"ehrssProfStartNum": 1,
+		"ehrssProfEndNum": 10,
+		"hcpStartNum": 1,
+		"hcpEndNum": 10,
+		"hslStartNum": 1,
+		"hslEndNum": 10,
+		"otherProfStartNum": 1,
+		"otherProfEndNum": 51
+	}
+}

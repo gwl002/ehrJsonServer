@@ -1,0 +1,75 @@
+{
+	"dr-search_result_15": {
+		"ehrssProfCnt": 0,
+		"hcpCnt": 1,
+		"hslCnt": 2,
+		"otherProfCnt": 0,
+		"ehrssProfResultList": [],
+		"hcpResultList": [{
+			"hcpId": "4997603763",
+			"nameEng": "HONG KONG KIDNEY FOUNDATION LIMITED",
+			"nameChiT": "香港腎臟基金會有限公司",
+			"progResult": [{
+				"hcpId": "4997603763",
+				"progName": "PPP_HD",
+				"link": {
+					"href": "/dr-search/hcp/4997603763/PPP_HD",
+					"rel": "getHcpProg"
+				}
+			}],
+			"hcpLink": {
+				"href": "/dr-search/hcp/4997603763",
+				"rel": "getHcpDetail"
+			},
+			"hslInfo": [{
+				"hcpId": "4997603763",
+				"hciId": "4000000102",
+				"nameEng": "HONG KONG KIDNEY FOUNDATION LIMITED (JOCKEY CLUB DIALYSIS CENTRE)",
+				"nameChiT": "香港腎臟基金會有限公司(沙田賽馬會洗腎中心)",
+				"hciLink": {
+					"href": "/dr-search/hci/4000000102",
+					"rel": "getHciDetail"
+				}
+			},
+			{
+				"hcpId": "4997603763",
+				"hciId": "4000000101",
+				"nameEng": "HONG KONG KIDNEY FOUNDATION LIMITED (KOWLOON CITY DIALYSIS CENTRE)",
+				"nameChiT": "香港腎臟基金會有限公司(九龍城洗腎中心)",
+				"hciLink": {
+					"href": "/dr-search/hci/4000000101",
+					"rel": "getHciDetail"
+				}
+			}]
+		}],
+		"hslResultList": [{
+			"hcpId": "4997603763",
+			"hciId": "4000000102",
+			"nameEng": "HONG KONG KIDNEY FOUNDATION LIMITED (JOCKEY CLUB DIALYSIS CENTRE)",
+			"nameChiT": "香港腎臟基金會有限公司(沙田賽馬會洗腎中心)",
+			"hciLink": {
+				"href": "/dr-search/hci/4000000102",
+				"rel": "getHciDetail"
+			}
+		},
+		{
+			"hcpId": "4997603763",
+			"hciId": "4000000101",
+			"nameEng": "HONG KONG KIDNEY FOUNDATION LIMITED (KOWLOON CITY DIALYSIS CENTRE)",
+			"nameChiT": "香港腎臟基金會有限公司(九龍城洗腎中心)",
+			"hciLink": {
+				"href": "/dr-search/hci/4000000101",
+				"rel": "getHciDetail"
+			}
+		}],
+		"otherProfResultList": [],
+		"ehrssProfStartNum": 1,
+		"ehrssProfEndNum": 10,
+		"hcpStartNum": 1,
+		"hcpEndNum": 10,
+		"hslStartNum": 1,
+		"hslEndNum": 10,
+		"otherProfStartNum": 1,
+		"otherProfEndNum": 51
+	}
+}
