@@ -61,16 +61,6 @@
 				"href": "/dr-search/hci/8000000001",
 				"rel": "getHciDetail"
 			}
-		},
-		{
-			"hcpId": "8000000000",
-			"hciId": "8000000002",
-			"nameEng": "HAVEN OF HOPE SAU MAU PING CLINIC",
-			"nameChiT": "靈實秀茂坪診所",
-			"hciLink": {
-				"href": "/dr-search/hci/8000000002",
-				"rel": "getHciDetail"
-			}
 		}],
 		"otherProfResultList": [],
 		"ehrssProfStartNum": 1,
