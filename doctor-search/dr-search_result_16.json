@@ -1,0 +1,100 @@
+{
+	"dr-search_result_16": {
+		"ehrssProfCnt": 1,
+		"hcpCnt": 1,
+		"hslCnt": 1,
+		"otherProfCnt": 1,
+		"ehrssProfResultList": [{
+			"profId": "RMP-M12345",
+			"profCateCd": "RMP",
+			"profNameEng": "CHAN, TAI MAN",
+			"profNameChiT": "陳大文",
+			"hslInfo": [{
+				"hcpId": "9747525203",
+				"hciId": "9000000203",
+				"nameEng": "Dr CHAN Tai Man Clinic",
+				"nameChiT": "陳大文醫生醫務所",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000203",
+					"rel": "getHciDetail"
+				}
+			}],
+			"progResult": [{
+				"profId": "RMP-M12345",
+				"progName": "HCVS",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12345/HCVS",
+					"rel": "getProfProg"
+				}
+			},
+			{
+				"profId": "RMP-M12345",
+				"progName": "CRC",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12345/CRC",
+					"rel": "getProfProg"
+				}
+			},
+			{
+				"profId": "RMP-M12345",
+				"progName": "PPP_GOPC",
+				"link": {
+					"href": "/dr-search/prof/RMP-M12345/PPP_GOPC",
+					"rel": "getProfProg"
+				}
+			}]
+		}],
+		"hcpResultList": [{
+			"hcpId": "9747525203",
+			"nameEng": "Dr CHAN Tai Man Clinic",
+			"nameChiT": "陳大文醫生醫務所",
+			"progResult": null,
+			"hcpLink": {
+				"href": "/dr-search/hcp/9747525203",
+				"rel": "getHcpDetail"
+			},
+			"hslInfo": [{
+				"hcpId": "9747525203",
+				"hciId": "9000000203",
+				"nameEng": "Dr CHAN Tai Man Clinic",
+				"nameChiT": "陳大文醫生醫務所",
+				"hciLink": {
+					"href": "/dr-search/hci/9000000203",
+					"rel": "getHciDetail"
+				}
+			}]
+		}],
+		"hslResultList": [{
+			"hcpId": "9747525203",
+			"hciId": "9000000203",
+			"nameEng": "Dr CHAN Tai Man Clinic",
+			"nameChiT": "陳大文醫生醫務所",
+			"hciLink": {
+				"href": "/dr-search/hci/9000000203",
+				"rel": "getHciDetail"
+			}
+		}],
+		"otherProfResultList": [{
+			"progName": "HCVS",
+			"profId": "RMP-M12345",
+			"profCateCd": "RMP",
+			"profNameEng": "CHAN Tai Man",
+			"profNameChiT": "陳大文",
+			"clinicId": "EHS-9JBSZE4OBebjEPPBLA0YLqYWzJUOVp5sMnOONeuSEPmpPqJqFqFzRgTrukGYtXy4RJlTYSk72eJIGnJi7tpqr==-1",
+			"clinicNameEng": "Dr CHAN Tai Man Clinic",
+			"clinicNameChiT": "陳大文醫生醫務所",
+			"link": {
+				"href": "/dr-search/prof/RMP-M12345/HCVS/EHS-9JBSZE4OBebjEPPBLA0YLqYWzJUOVp5sMnOONeuSEPmpPqJqFqFzRgTrukGYtXy4RJlTYSk72eJIGnJi7tpqr==-1",
+				"rel": "getProfProgClinic"
+			}
+		}],
+		"ehrssProfStartNum": 1,
+		"ehrssProfEndNum": 10,
+		"hcpStartNum": 1,
+		"hcpEndNum": 10,
+		"hslStartNum": 1,
+		"hslEndNum": 10,
+		"otherProfStartNum": 1,
+		"otherProfEndNum": 51
+	}
+}

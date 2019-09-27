@@ -17,6 +17,7 @@ module.exports = function() {
 	require('./dr-search_result_13.json'),
 	require('./dr-search_result_14.json'),
 	require('./dr-search_result_15.json'),
+	require('./dr-search_result_16.json'),
     require('./dr-search_hcp_2426856537.json'),
     require('./dr-search_hcp_3000000000.json'),
     require('./dr-search_hcp_4000000000.json'),
@@ -228,5 +229,13 @@ module.exports = function() {
 	require('./dr-search_prof_RMP-M12340_HCVS.json'),
 	require('./dr-search_prof_RMP-M12340_PPP_Colon.json'),
 	require('./dr-search_prof_RMP-M12341_CRC.json'),
+	require('./dr-search_hcp_9747525203.json'),
+	require('./dr-search_hci_9000000203.json'),
+	require('./dr-search_prof_RMP-M12345_CRC.json'),
+	require('./dr-search_prof_RMP-M12345_HCVS.json'),
+	require('./dr-search_prof_RMP-M12345_PPP_GOPC.json'),
+	require('./dr-search_prof_RMP-M12345_CRC_9747525203-9000000203.json'),
+	require('./dr-search_prof_RMP-M12345_PPP_GOPC_9747525203-9000000203.json'),
+	require('./dr-search_prof_RMP-M12345_HCVS_EHS-9JBSZE4OBebjEPPBLA0YLqYWzJUOVp5sMnOONeuSEPmpPqJqFqFzRgTrukGYtXy4RJlTYSk72eJIGnJi7tpqr==-1.json'),
     );
 };
