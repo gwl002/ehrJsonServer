@@ -44,7 +44,7 @@
 				"csExamInd": "Y",
 				"csCopayWO": 210,
 				"csCopayW": 210,
-				"charityQuota": 15
+				"charityQuota": "15"
 			}
 		}
 	}
