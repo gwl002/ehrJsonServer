@@ -32,7 +32,8 @@
 				"addressEng": "G/F,BLOCK I,TELFORD GARDENS,33,WAI YIP STREET,KWUN TONG DISTRICT,KOWLOON",
 				"addressChiT": "九龍觀塘區偉業街33號號德福花園I座地下",
 				"addressChiS": "九龍觀塘區偉業街33號号德福花園I座地下",
-				"telephone": "27500782"
+				"telephone": "27500782",
+				"districtCd": "KT"
 			},
 			"progInfo": {
 				"hcpId": 4000000000,

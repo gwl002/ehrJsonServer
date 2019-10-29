@@ -1,1 +1,30 @@
-{"dr-search_hcp_4997603763_PPP_HD":{"progName":"PPP_HD","hcpProgClinicList":[{"hcpId":4997603763,"hciId":4000000102,"clinicNameEng":"Hong Kong Kideny Foudnation Ltd (Jockey Club Dialysis Centre)","clinicNameChiT":"香港腎臟基金會 (賽馬會洗腎中心)","clinicAddressEng":"ROOM 123-130, TAK HO HOUSE, WO CHE ESTATE, 2, TAK HAU ST, SHA TIN, NEW TERRITORIES","clinicAddressChiT":"新界沙田禾輋村德和樓 123-130 室","clinicPhoneNo":null,"clinicFaxNo":null,"clinicDistrictCd":"ST","clinicOpeningHoursEng":"Mon – Fri 8:00 am – 8:00 pm\nSat 8:00 am – 1:00 pm\nClosed on Sun and PH","clinicOpeningHoursChiT":"星期一至星期五 8:00 am – 8:00 pm\n星期六 8:00 am – 1:00 pm\n星期日及公眾假期休息","clinicOpeningHoursChiS":"星期一至星期五 8:00 am – 8:00 pm\n星期六 8:00 am – 1:00 pm\n星期日及公眾假期休息","clinicServiceList":[],"operationAddressList":[],"hciInfo":{"hcpId":"4997603763","hciId":"4000000102","nameEng":"HONG KONG KIDNEY FOUNDATION LIMITED (JOCKEY CLUB DIALYSIS CENTRE)","nameChiT":"香港腎臟基金會有限公司(沙田賽馬會洗腎中心)","addressEng":"G/F,TAK HO HOUSE,WO CHE ESTATE,2,TAK HAU ST,SHA TIN DISTRICT,NEW TERRITORIES","addressChiT":"新界沙田區德厚街2號號禾輋邨德和樓地下","telephone":"26934826"}}]}}
+{
+	"dr-search_hcp_4997603763_PPP_HD": {
+		"progName": "PPP_HD",
+		"hcpProgClinicList": [{
+			"hcpId": 4997603763,
+			"hciId": 4000000102,
+			"clinicNameEng": "Hong Kong Kideny Foudnation Ltd (Jockey Club Dialysis Centre)",
+			"clinicNameChiT": "香港腎臟基金會 (賽馬會洗腎中心)",
+			"clinicAddressEng": "ROOM 123-130, TAK HO HOUSE, WO CHE ESTATE, 2, TAK HAU ST, SHA TIN, NEW TERRITORIES",
+			"clinicAddressChiT": "新界沙田禾輋村德和樓 123-130 室",
+			"clinicPhoneNo": null,
+			"clinicFaxNo": null,
+			"clinicDistrictCd": "ST",
+			"clinicOpeningHoursEng": null,
+			"clinicOpeningHoursChiT": null,
+			"clinicOpeningHoursChiS": null,
+			"clinicServiceList": [],
+			"operationAddressList": [],
+			"hciInfo": {
+				"hcpId": "4997603763",
+				"hciId": "4000000102",
+				"nameEng": "HONG KONG KIDNEY FOUNDATION LIMITED (JOCKEY CLUB DIALYSIS CENTRE)",
+				"nameChiT": "香港腎臟基金會有限公司(沙田賽馬會洗腎中心)",
+				"addressEng": "G/F,TAK HO HOUSE,WO CHE ESTATE,2,TAK HAU ST,SHA TIN DISTRICT,NEW TERRITORIES",
+				"addressChiT": "新界沙田區德厚街2號號禾輋邨德和樓地下",
+				"telephone": "26934826"
+			}
+		}]
+	}
+}

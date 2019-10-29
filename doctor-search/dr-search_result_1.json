@@ -18,6 +18,16 @@
 					"href": "/dr-search/hci/2000000001",
 					"rel": "getHciDetail"
 				}
+			},
+			{
+				"hcpId": "3726405388",
+				"hciId": "3000000102",
+				"nameEng": "MRI/Ultrasound Unit, Diagnostic Radiology, The University of Hong Kong",
+				"nameChiT": "香港大學 - 放射診斷學系 - 磁力共振/超音波掃描部",
+				"hciLink": {
+					"href": "/dr-search/hci/3000000102",
+					"rel": "getHciDetail"
+				}
 			}],
 			"progResult": [{
 				"profId": "RDT-M12310",

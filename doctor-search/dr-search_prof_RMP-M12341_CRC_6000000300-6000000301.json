@@ -30,7 +30,8 @@
 				"nameChiT": "九龍半島醫學有限公司",
 				"addressEng": "1/F,KOWLOON HOTEL,19-21,NATHAN RD,YAU TSIM MONG DISTRICT,KOWLOON",
 				"addressChiT": "九龍油尖旺區彌敦道19-21號號九龍酒店商場1樓",
-				"telephone": "38936888"
+				"telephone": "38936888",
+				"districtCd": "YTM"
 			},
 			"progInfo": {
 				"hcpId": 6000000300,

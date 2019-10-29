@@ -30,7 +30,8 @@
 				"nameChiT": "香港浸信會醫院",
 				"addressEng": "222,WATERLOO ROAD,KOWLOON CITY DISTRICT,KOWLOON",
 				"addressChiT": "九龍九龍城區窩打老道街222號號",
-				"telephone": "23263626"
+				"telephone": "23263626",
+				"districtCd": "KLC"
 			},
 			"progInfo": {
 				"hcpId": 6000000200,

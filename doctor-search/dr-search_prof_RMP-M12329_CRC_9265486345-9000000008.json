@@ -47,19 +47,20 @@
 				"nameChiS": "卓健医疗中心",
 				"addressEng": "G/F,BLOCK 1,TELFORD GARDEN,KWUN TONG DISTRICT,KOWLOON",
 				"addressChiT": "九龍觀塘區德福花園一座地下",
-				"addressChiS": "九龍觀塘區德福花園一座地下"
+				"addressChiS": "九龍觀塘區德福花園一座地下",
+				"districtCd": "KT"
 			},
 			"progInfo": {
 				"hcpId": 9265486345,
 				"hciId": 9000000008,
 				"pcdInd": "Y",
-				"pcdCopay": 150,
+				"pcdCopay": 0,
 				"csInd": "N",
 				"csConsultInd": null,
 				"csExamInd": null,
 				"csCopayWO": null,
 				"csCopayW": null,
-				"charityQuota": "NA"
+				"charityQuota": null
 			}
 		}
 	}

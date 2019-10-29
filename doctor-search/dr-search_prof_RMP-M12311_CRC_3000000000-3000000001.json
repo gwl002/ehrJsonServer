@@ -32,7 +32,8 @@
 				"addressEng": "SHOP 203,KWONG TIN SHOPPING CENTRE,KWONG TIN ESTATE,KWUN TONG DISTRICT,KOWLOON",
 				"addressChiT": "九龍觀塘區廣田邨廣田商場203室",
 				"addressChiS": "九龍觀塘區廣田邨廣田商場203室",
-				"telephone": "24120082"
+				"telephone": "24120082",
+				"districtCd": "KT"
 			},
 			"progInfo": {
 				"hcpId": 3000000000,

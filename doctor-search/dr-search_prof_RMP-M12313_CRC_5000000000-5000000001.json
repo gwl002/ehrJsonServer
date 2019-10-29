@@ -32,7 +32,8 @@
 				"addressEng": "SUITE 1101,11/F,MELBOURNE PLAZA,33,QUEEN'S ROAD CENTRAL,CENTRAL AND WESTERN DISTRICT,HONG KONG",
 				"addressChiT": "香港中西區皇后大道中33號號萬邦行11樓1101室",
 				"addressChiS": "香港中西區皇后大道中33號号萬邦行11樓1101室",
-				"telephone": "25220039"
+				"telephone": "25220039",
+				"districtCd": "CW"
 			},
 			"progInfo": {
 				"hcpId": 5000000000,

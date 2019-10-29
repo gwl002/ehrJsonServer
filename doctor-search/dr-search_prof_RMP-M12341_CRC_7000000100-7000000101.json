@@ -29,7 +29,8 @@
 				"nameEng": "HONG KONG GASTROINTESTINAL ENDOSCOPY CENTRED",
 				"nameChiT": "香港腸胃內視鏡中心",
 				"addressEng": "18/F,GRAND CENTRE,8,HUMPHREYS AVENUE,YAU TSIM MONG DISTRICT,KOWLOON",
-				"addressChiT": "九龍油尖旺區堪富利士道8號號格蘭中心18樓"
+				"addressChiT": "九龍油尖旺區堪富利士道8號號格蘭中心18樓",
+				"districtCd": "YTM"
 			},
 			"progInfo": {
 				"hcpId": 7000000100,

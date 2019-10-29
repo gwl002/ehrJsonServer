@@ -1,1 +1,30 @@
-{"dr-search_hcp_7420324778_PPP_HD":{"progName":"PPP_HD","hcpProgClinicList":[{"hcpId":7420324778,"hciId":1000000001,"clinicNameEng":"C-Mer Dennis Lam & Partners Eye Centre","clinicNameChiT":"希瑪林順潮眼科中心","clinicAddressEng":"Suite 1515, 15/F, Central Building, 1-3 Pedder Street, Central","clinicAddressChiT":"中環畢打街 1-3 號 中建大廈 15 樓 1515 室","clinicPhoneNo":"39973566","clinicFaxNo":"39973566","clinicDistrictCd":"CW","clinicOpeningHoursEng":"Mon – Fri\n9:30 am – 7:00 pm \nSat\n9:30 am – 1:00 pm \nclosed on Sun and PH ","clinicOpeningHoursChiT":"星期一至星期五 \n9:30 am – 7:00 pm \n星期六\n9:30 am – 1:00 pm \n星期日及公眾假期休息 ","clinicOpeningHoursChiS":"星期一至星期五 \n9:30 am – 7:00 pm \n星期六\n9:30 am – 1:00 pm \n星期日及公眾假期休息 ","clinicServiceList":[],"operationAddressList":[],"hciInfo":{"hcpId":"7420324778","hciId":"1000000001","nameEng":"DENNIS LAM & PARTNERS EYE CENTER(CENTRAL)","nameChiT":"林順潮眼科中心(中環)","addressEng":"RM 1515,15/F,CENTRAL BUILDING,1-3,PEDDER ST,CENTRAL AND WESTERN DISTRICT,HONG KONG","addressChiT":"香港中西區畢打街1-3號號中建大廈15樓1515室","telephone":"39973566"}}]}}
+{
+	"dr-search_hcp_7420324778_PPP_HD": {
+		"progName": "PPP_HD",
+		"hcpProgClinicList": [{
+			"hcpId": 7420324778,
+			"hciId": 1000000001,
+			"clinicNameEng": "C-Mer Dennis Lam & Partners Eye Centre",
+			"clinicNameChiT": "希瑪林順潮眼科中心",
+			"clinicAddressEng": "Suite 1515, 15/F, Central Building, 1-3 Pedder Street, Central",
+			"clinicAddressChiT": "中環畢打街 1-3 號 中建大廈 15 樓 1515 室",
+			"clinicPhoneNo": "39973566",
+			"clinicFaxNo": "39973566",
+			"clinicDistrictCd": "CW",
+			"clinicOpeningHoursEng": null,
+			"clinicOpeningHoursChiT": null,
+			"clinicOpeningHoursChiS": null,
+			"clinicServiceList": [],
+			"operationAddressList": [],
+			"hciInfo": {
+				"hcpId": "7420324778",
+				"hciId": "1000000001",
+				"nameEng": "DENNIS LAM & PARTNERS EYE CENTER(CENTRAL)",
+				"nameChiT": "林順潮眼科中心(中環)",
+				"addressEng": "RM 1515,15/F,CENTRAL BUILDING,1-3,PEDDER ST,CENTRAL AND WESTERN DISTRICT,HONG KONG",
+				"addressChiT": "香港中西區畢打街1-3號號中建大廈15樓1515室",
+				"telephone": "39973566"
+			}
+		}]
+	}
+}

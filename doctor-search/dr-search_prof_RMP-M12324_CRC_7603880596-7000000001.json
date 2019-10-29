@@ -48,19 +48,20 @@
 				"addressEng": "SHOP 1,G/F,PO SUN MANSION,89,BULKELEY ST,KOWLOON CITY DISTRICT,KOWLOON",
 				"addressChiT": "九龍九龍城區寶其利街89號號寶新大廈地下1舖",
 				"addressChiS": "九龍九龍城區寶其利街89號号寶新大廈地下1舖",
-				"telephone": "23348286"
+				"telephone": "23348286",
+				"districtCd": "KLC"
 			},
 			"progInfo": {
 				"hcpId": 7603880596,
 				"hciId": 7000000001,
 				"pcdInd": "Y",
-				"pcdCopay": 100,
+				"pcdCopay": 0,
 				"csInd": "N",
 				"csConsultInd": null,
 				"csExamInd": null,
 				"csCopayWO": null,
 				"csCopayW": null,
-				"charityQuota": "NA"
+				"charityQuota": null
 			}
 		}
 	}
