@@ -12,9 +12,9 @@
 			"pepClusterPhoneNo": null,
 			"clinicFaxNo": "39973566",
 			"clinicDistrictCd": "CW",
-			"clinicOpeningHoursEng": "Mon – Fri\n9:30 am – 7:00 pm \nSat\n9:30 am – 1:00 pm \nclosed on Sun and PH ",
-			"clinicOpeningHoursChiT": "星期一至星期五 \n9:30 am – 7:00 pm \n星期六\n9:30 am – 1:00 pm \n星期日及公眾假期休息 ",
-			"clinicOpeningHoursChiS": "星期一至星期五 \n9:30 am – 7:00 pm \n星期六\n9:30 am – 1:00 pm \n星期日及公眾假期休息 ",
+			"clinicOpeningHoursEng": null,
+			"clinicOpeningHoursChiT": null,
+			"clinicOpeningHoursChiS": null,
 			"clinicServiceList": [],
 			"operationAddressList": [],
 			"hciInfo": {

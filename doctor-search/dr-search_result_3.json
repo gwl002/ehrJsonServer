@@ -77,36 +77,7 @@
 			}]
 		}],
 		"hcpResultList": [],
-		"hslResultList": [{
-			"hcpId": "3000000000",
-			"hciId": "3000000001",
-			"nameEng": "BRADBURY KWONG TIN COMMUNITY HEALTH CENTRE",
-			"nameChiT": "白普理廣田社區健康中心",
-			"hciLink": {
-				"href": "/dr-search/hci/3000000001",
-				"rel": "getHciDetail"
-			}
-		},
-		{
-			"hcpId": "4000000000",
-			"hciId": "4000000001",
-			"nameEng": "QUALITY HEALTHCARE MEDICAL CENTRE (KOWLOON BAY-TELFORD GARDENS)",
-			"nameChiT": "卓健醫療中心(九龍灣-德福花園)",
-			"hciLink": {
-				"href": "/dr-search/hci/4000000001",
-				"rel": "getHciDetail"
-			}
-		},
-		{
-			"hcpId": "5000000000",
-			"hciId": "5000000001",
-			"nameEng": "RICHEN SURGICAL CLINIC",
-			"nameChiT": "薈縉外科專科中心",
-			"hciLink": {
-				"href": "/dr-search/hci/5000000001",
-				"rel": "getHciDetail"
-			}
-		}],
+		"hslResultList": [],
 		"otherProfResultList": [],
 		"ehrssProfStartNum": 1,
 		"ehrssProfEndNum": 10,
